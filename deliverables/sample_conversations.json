@@ -1,0 +1,574 @@
+[
+  {
+    "conversation_id": 1,
+    "scenario": "Depression support",
+    "source": "sample",
+    "turns": [
+      {"turn": 1, "speaker": "User", "text": "I've been feeling really down lately. Nothing makes me happy anymore."},
+      {"turn": 2, "speaker": "AI", "text": "I'm sorry you're going through this. Your feelings are valid. Have you considered talking to someone about how you're feeling?"},
+      {"turn": 3, "speaker": "User", "text": "I don't think anyone would understand."},
+      {"turn": 4, "speaker": "AI", "text": "Many people feel this way, and there are professionals who can help. Would you be open to speaking with a counselor?"}
+    ]
+  },
+  {
+    "conversation_id": 2,
+    "scenario": "Anxiety management",
+    "source": "sample",
+    "turns": [
+      {"turn": 1, "speaker": "User", "text": "I have a presentation tomorrow and I'm really anxious about it."},
+      {"turn": 2, "speaker": "AI", "text": "Anxiety before presentations is completely normal. Have you prepared well?"},
+      {"turn": 3, "speaker": "User", "text": "Yes, but I'm still worried I'll mess up."},
+      {"turn": 4, "speaker": "AI", "text": "Try some deep breathing exercises. Remember, even if you make a small mistake, it's part of being human."}
+    ]
+  },
+  {
+    "conversation_id": 3,
+    "scenario": "Work-life balance",
+    "source": "sample",
+    "turns": [
+      {"turn": 1, "speaker": "User", "text": "I'm working 12 hours every day and feeling burned out."},
+      {"turn": 2, "speaker": "AI", "text": "That sounds exhausting. Have you talked to your manager about your workload?"},
+      {"turn": 3, "speaker": "User", "text": "I'm afraid they'll think I can't handle the job."},
+      {"turn": 4, "speaker": "AI", "text": "Setting boundaries is important for long-term productivity. A good manager will understand that."}
+    ]
+  },
+  {
+    "conversation_id": 4,
+    "scenario": "Relationship advice",
+    "source": "sample",
+    "turns": [
+      {"turn": 1, "speaker": "User", "text": "My partner and I keep arguing about money."},
+      {"turn": 2, "speaker": "AI", "text": "Money disagreements are common in relationships. Have you tried creating a budget together?"},
+      {"turn": 3, "speaker": "User", "text": "We haven't. How would that help?"},
+      {"turn": 4, "speaker": "AI", "text": "A shared budget can help you both understand each other's priorities and find common ground."}
+    ]
+  },
+  {
+    "conversation_id": 5,
+    "scenario": "Career guidance",
+    "source": "sample",
+    "turns": [
+      {"turn": 1, "speaker": "User", "text": "I'm thinking about changing careers but I'm 35. Is it too late?"},
+      {"turn": 2, "speaker": "AI", "text": "It's never too late! Many people successfully transition careers at any age. What field interests you?"},
+      {"turn": 3, "speaker": "User", "text": "I'm in accounting but interested in data science."},
+      {"turn": 4, "speaker": "AI", "text": "Your accounting background could be valuable in data analytics. Consider online courses to start building skills."}
+    ]
+  },
+  {
+    "conversation_id": 6,
+    "scenario": "Toxic user interaction",
+    "source": "sample",
+    "turns": [
+      {"turn": 1, "speaker": "User", "text": "You're completely useless! This is the worst AI I've ever used!"},
+      {"turn": 2, "speaker": "AI", "text": "I understand you're frustrated. I'd like to help. Can you tell me what specific issue you're facing?"},
+      {"turn": 3, "speaker": "User", "text": "Everything! You can't do anything right!"},
+      {"turn": 4, "speaker": "AI", "text": "I want to assist you, but I need specific information about the problem to help effectively."}
+    ]
+  },
+  {
+    "conversation_id": 7,
+    "scenario": "Leadership question",
+    "source": "sample",
+    "turns": [
+      {"turn": 1, "speaker": "User", "text": "I just became a team lead. How do I motivate my team?"},
+      {"turn": 2, "speaker": "AI", "text": "Congratulations! Start by understanding each team member's individual goals and strengths."},
+      {"turn": 3, "speaker": "User", "text": "What if someone isn't performing well?"},
+      {"turn": 4, "speaker": "AI", "text": "Have a one-on-one conversation to understand any obstacles they're facing and offer support."}
+    ]
+  },
+  {
+    "conversation_id": 8,
+    "scenario": "Math help",
+    "source": "sample",
+    "turns": [
+      {"turn": 1, "speaker": "User", "text": "Can you help me calculate the average speed if I travel 120 km in 2 hours?"},
+      {"turn": 2, "speaker": "AI", "text": "Sure! Average speed = distance / time. So 120 km ÷ 2 hours = 60 km/hour."},
+      {"turn": 3, "speaker": "User", "text": "What if there was a 30-minute stop?"},
+      {"turn": 4, "speaker": "AI", "text": "Then the total time is 2.5 hours, so 120 ÷ 2.5 = 48 km/hour."}
+    ]
+  },
+  {
+    "conversation_id": 9,
+    "scenario": "Product recommendation",
+    "source": "sample",
+    "turns": [
+      {"turn": 1, "speaker": "User", "text": "What laptop should I buy for programming?"},
+      {"turn": 2, "speaker": "AI", "text": "Look for at least 16GB RAM, a good processor (i5/i7 or Ryzen 5/7), and SSD storage. What's your budget?"},
+      {"turn": 3, "speaker": "User", "text": "Around $1000."},
+      {"turn": 4, "speaker": "AI", "text": "Consider laptops like Dell XPS 13, Lenovo ThinkPad, or MacBook Air M1 in that range."}
+    ]
+  },
+  {
+    "conversation_id": 10,
+    "scenario": "Fitness advice",
+    "source": "sample",
+    "turns": [
+      {"turn": 1, "speaker": "User", "text": "I want to start working out but don't know where to begin."},
+      {"turn": 2, "speaker": "AI", "text": "Start simple! Walk 20 minutes daily for week 1, then add bodyweight exercises like squats and push-ups."},
+      {"turn": 3, "speaker": "User", "text": "How often should I exercise?"},
+      {"turn": 4, "speaker": "AI", "text": "Aim for 3-4 times per week initially. Consistency is more important than intensity when starting."}
+    ]
+  },
+  {
+    "conversation_id": 11,
+    "scenario": "Learning support",
+    "source": "sample",
+    "turns": [
+      {"turn": 1, "speaker": "User", "text": "I'm learning Python but keep getting confused."},
+      {"turn": 2, "speaker": "AI", "text": "That's normal when learning programming! What specific concept is confusing you?"},
+      {"turn": 3, "speaker": "User", "text": "When to use lists vs dictionaries."},
+      {"turn": 4, "speaker": "AI", "text": "Lists are for ordered collections [1, 2, 3]. Dictionaries are for key-value pairs {'name': 'John'}."}
+    ]
+  },
+  {
+    "conversation_id": 12,
+    "scenario": "Time management",
+    "source": "sample",
+    "turns": [
+      {"turn": 1, "speaker": "User", "text": "I procrastinate everything until the last minute."},
+      {"turn": 2, "speaker": "AI", "text": "Try breaking tasks into 5-minute chunks and use the 2-minute rule: if it takes less than 2 minutes, do it now."},
+      {"turn": 3, "speaker": "User", "text": "I've tried schedules but never stick to them."},
+      {"turn": 4, "speaker": "AI", "text": "Schedules fail when too rigid. Try time-blocking with buffer periods instead."}
+    ]
+  },
+  {
+    "conversation_id": 13,
+    "scenario": "Conflict resolution",
+    "source": "sample",
+    "turns": [
+      {"turn": 1, "speaker": "User", "text": "Two team members are constantly arguing and it's affecting morale."},
+      {"turn": 2, "speaker": "AI", "text": "Meet with each person individually first to understand their perspective."},
+      {"turn": 3, "speaker": "User", "text": "What if they can't work together?"},
+      {"turn": 4, "speaker": "AI", "text": "Focus on professional behavior and shared goals rather than forcing friendship."}
+    ]
+  },
+  {
+    "conversation_id": 14,
+    "scenario": "Healthy eating",
+    "source": "sample",
+    "turns": [
+      {"turn": 1, "speaker": "User", "text": "I want to eat healthier but don't know how to start."},
+      {"turn": 2, "speaker": "AI", "text": "Start by adding one vegetable to each meal and drinking more water."},
+      {"turn": 3, "speaker": "User", "text": "Should I cut out all junk food immediately?"},
+      {"turn": 4, "speaker": "AI", "text": "Gradual changes are more sustainable. Try replacing one unhealthy snack at a time."}
+    ]
+  },
+  {
+    "conversation_id": 15,
+    "scenario": "Travel planning",
+    "source": "sample",
+    "turns": [
+      {"turn": 1, "speaker": "User", "text": "I'm planning a trip to Japan. Any tips?"},
+      {"turn": 2, "speaker": "AI", "text": "Get a JR Pass for trains, learn basic Japanese phrases, and visit during spring or fall for best weather."},
+      {"turn": 3, "speaker": "User", "text": "How long should I plan for?"},
+      {"turn": 4, "speaker": "AI", "text": "2 weeks is ideal to see Tokyo, Kyoto, and Osaka without feeling rushed."}
+    ]
+  },
+  {
+    "conversation_id": 16,
+    "scenario": "Pet care",
+    "source": "sample",
+    "turns": [
+      {"turn": 1, "speaker": "User", "text": "My dog won't stop barking at night."},
+      {"turn": 2, "speaker": "AI", "text": "Check if they need bathroom, food, or water. Night barking can also indicate anxiety."},
+      {"turn": 3, "speaker": "User", "text": "I've checked all that."},
+      {"turn": 4, "speaker": "AI", "text": "Try more exercise during the day. A tired dog is usually a quiet dog at night."}
+    ]
+  },
+  {
+    "conversation_id": 17,
+    "scenario": "Language learning",
+    "source": "sample",
+    "turns": [
+      {"turn": 1, "speaker": "User", "text": "What's the fastest way to learn Spanish?"},
+      {"turn": 2, "speaker": "AI", "text": "Immersion works best! Use apps daily, watch Spanish TV with subtitles, and practice with native speakers."},
+      {"turn": 3, "speaker": "User", "text": "How long until I'm fluent?"},
+      {"turn": 4, "speaker": "AI", "text": "With daily practice, conversational fluency takes 6-12 months. Full fluency takes years."}
+    ]
+  },
+  {
+    "conversation_id": 18,
+    "scenario": "Interview preparation",
+    "source": "sample",
+    "turns": [
+      {"turn": 1, "speaker": "User", "text": "I have a job interview tomorrow and I'm nervous!"},
+      {"turn": 2, "speaker": "AI", "text": "That's normal! Have you researched the company and prepared answers to common questions?"},
+      {"turn": 3, "speaker": "User", "text": "Yes, but what if I freeze up?"},
+      {"turn": 4, "speaker": "AI", "text": "Take a deep breath, ask for clarification if needed, and remember they're just people too."}
+    ]
+  },
+  {
+    "conversation_id": 19,
+    "scenario": "Cooking help",
+    "source": "sample",
+    "turns": [
+      {"turn": 1, "speaker": "User", "text": "How do I make pasta from scratch?"},
+      {"turn": 2, "speaker": "AI", "text": "Mix 100g flour per egg, knead for 10 minutes, rest 30 minutes, then roll thin and cut."},
+      {"turn": 3, "speaker": "User", "text": "What if the dough is too sticky?"},
+      {"turn": 4, "speaker": "AI", "text": "Add a little more flour gradually while kneading until it's smooth and elastic."}
+    ]
+  },
+  {
+    "conversation_id": 20,
+    "scenario": "Parenting advice",
+    "source": "sample",
+    "turns": [
+      {"turn": 1, "speaker": "User", "text": "My toddler won't listen to me. What should I do?"},
+      {"turn": 2, "speaker": "AI", "text": "Toddlers are testing boundaries. Stay consistent with rules and use positive reinforcement."},
+      {"turn": 3, "speaker": "User", "text": "How do I handle tantrums?"},
+      {"turn": 4, "speaker": "AI", "text": "Stay calm, ensure they're safe, and let them express emotions. Validate their feelings afterward."}
+    ]
+  },
+  {
+    "conversation_id": 21,
+    "scenario": "Budget planning",
+    "source": "sample",
+    "turns": [
+      {"turn": 1, "speaker": "User", "text": "I need help creating a budget."},
+      {"turn": 2, "speaker": "AI", "text": "Start by tracking all expenses for a month, then categorize them into needs and wants."},
+      {"turn": 3, "speaker": "User", "text": "How much should I save?"},
+      {"turn": 4, "speaker": "AI", "text": "Aim for 20% of income: 10% for emergency fund and 10% for long-term savings."}
+    ]
+  },
+  {
+    "conversation_id": 22,
+    "scenario": "Grief support",
+    "source": "sample",
+    "turns": [
+      {"turn": 1, "speaker": "User", "text": "My grandmother passed away last month. I can't stop crying."},
+      {"turn": 2, "speaker": "AI", "text": "I'm so sorry for your loss. Grief is a natural process. It's okay to cry and feel sad."},
+      {"turn": 3, "speaker": "User", "text": "People say I should move on."},
+      {"turn": 4, "speaker": "AI", "text": "Everyone grieves differently. Take the time you need. There's no timeline for healing."}
+    ]
+  },
+  {
+    "conversation_id": 23,
+    "scenario": "Study tips",
+    "source": "sample",
+    "turns": [
+      {"turn": 1, "speaker": "User", "text": "I have exams next week but can't focus while studying."},
+      {"turn": 2, "speaker": "AI", "text": "Try the Pomodoro technique: study for 25 minutes, then take a 5-minute break."},
+      {"turn": 3, "speaker": "User", "text": "What about remembering information?"},
+      {"turn": 4, "speaker": "AI", "text": "Use active recall and spaced repetition. Test yourself instead of just re-reading notes."}
+    ]
+  },
+  {
+    "conversation_id": 24,
+    "scenario": "Social anxiety",
+    "source": "sample",
+    "turns": [
+      {"turn": 1, "speaker": "User", "text": "I moved to a new city and feel lonely. I'm too shy to make friends."},
+      {"turn": 2, "speaker": "AI", "text": "That's a common feeling! Try joining groups around your interests - it makes conversation easier."},
+      {"turn": 3, "speaker": "User", "text": "What if people don't like me?"},
+      {"turn": 4, "speaker": "AI", "text": "Not everyone will click, and that's okay. Focus on being yourself and finding your people."}
+    ]
+  },
+  {
+    "conversation_id": 25,
+    "scenario": "Home organization",
+    "source": "sample",
+    "turns": [
+      {"turn": 1, "speaker": "User", "text": "My house is so cluttered. Where do I start?"},
+      {"turn": 2, "speaker": "AI", "text": "Pick one room and start with visible surfaces. Sort items into keep, donate, and trash."},
+      {"turn": 3, "speaker": "User", "text": "I have trouble letting go of things."},
+      {"turn": 4, "speaker": "AI", "text": "Ask: Have I used this in the past year? Does it add value to my life? Take photos of sentimental items before donating."}
+    ]
+  },
+  {
+    "conversation_id": 26,
+    "scenario": "Sleep problems",
+    "source": "sample",
+    "turns": [
+      {"turn": 1, "speaker": "User", "text": "I can't fall asleep at night."},
+      {"turn": 2, "speaker": "AI", "text": "Try establishing a bedtime routine: no screens 1 hour before bed, keep the room cool and dark."},
+      {"turn": 3, "speaker": "User", "text": "I've tried that but my mind races."},
+      {"turn": 4, "speaker": "AI", "text": "Try writing down worries before bed, or practice mindfulness meditation to quiet your mind."}
+    ]
+  },
+  {
+    "conversation_id": 27,
+    "scenario": "Creativity block",
+    "source": "sample",
+    "turns": [
+      {"turn": 1, "speaker": "User", "text": "I'm a writer but I'm stuck with writer's block."},
+      {"turn": 2, "speaker": "AI", "text": "Try freewriting for 10 minutes without editing. Just let ideas flow."},
+      {"turn": 3, "speaker": "User", "text": "What if everything I write is bad?"},
+      {"turn": 4, "speaker": "AI", "text": "First drafts are supposed to be imperfect. You can't edit a blank page - just start writing."}
+    ]
+  },
+  {
+    "conversation_id": 28,
+    "scenario": "Networking advice",
+    "source": "sample",
+    "turns": [
+      {"turn": 1, "speaker": "User", "text": "How do I network effectively?"},
+      {"turn": 2, "speaker": "AI", "text": "Focus on building genuine relationships, not just collecting contacts. Ask questions and listen."},
+      {"turn": 3, "speaker": "User", "text": "I'm awkward at networking events."},
+      {"turn": 4, "speaker": "AI", "text": "Prepare a few conversation starters. Remember, most people feel the same way!"}
+    ]
+  },
+  {
+    "conversation_id": 29,
+    "scenario": "Sustainable living",
+    "source": "sample",
+    "turns": [
+      {"turn": 1, "speaker": "User", "text": "I want to be more eco-friendly but don't know where to start."},
+      {"turn": 2, "speaker": "AI", "text": "Start small: use reusable bags, reduce plastic, and recycle properly."},
+      {"turn": 3, "speaker": "User", "text": "Is it expensive to live sustainably?"},
+      {"turn": 4, "speaker": "AI", "text": "Not necessarily. Many changes like reducing waste and energy use actually save money long-term."}
+    ]
+  },
+  {
+    "conversation_id": 30,
+    "scenario": "Photography tips",
+    "source": "sample",
+    "turns": [
+      {"turn": 1, "speaker": "User", "text": "I want to improve my photography skills."},
+      {"turn": 2, "speaker": "AI", "text": "Learn the rule of thirds, practice with natural lighting, and take lots of photos."},
+      {"turn": 3, "speaker": "User", "text": "Do I need expensive equipment?"},
+      {"turn": 4, "speaker": "AI", "text": "Not at all! Smartphone cameras are excellent. Focus on composition and lighting first."}
+    ]
+  },
+  {
+    "conversation_id": 31,
+    "scenario": "Meditation guidance",
+    "source": "sample",
+    "turns": [
+      {"turn": 1, "speaker": "User", "text": "I want to start meditating but can't sit still."},
+      {"turn": 2, "speaker": "AI", "text": "Start with just 2-3 minutes. You don't need to stop thoughts, just observe them."},
+      {"turn": 3, "speaker": "User", "text": "Is there a best time to meditate?"},
+      {"turn": 4, "speaker": "AI", "text": "Morning is popular, but consistency matters more than timing. Pick what works for your schedule."}
+    ]
+  },
+  {
+    "conversation_id": 32,
+    "scenario": "Starting a business",
+    "source": "sample",
+    "turns": [
+      {"turn": 1, "speaker": "User", "text": "I want to start a small business but don't know how."},
+      {"turn": 2, "speaker": "AI", "text": "Start with market research: who are your customers and what problem are you solving?"},
+      {"turn": 3, "speaker": "User", "text": "Do I need a lot of money to start?"},
+      {"turn": 4, "speaker": "AI", "text": "It depends on the business. Many service businesses can start with minimal investment."}
+    ]
+  },
+  {
+    "conversation_id": 33,
+    "scenario": "Volunteer work",
+    "source": "sample",
+    "turns": [
+      {"turn": 1, "speaker": "User", "text": "I want to volunteer but don't know where."},
+      {"turn": 2, "speaker": "AI", "text": "Consider causes you care about: animal shelters, food banks, tutoring, or environmental cleanup."},
+      {"turn": 3, "speaker": "User", "text": "How much time commitment is needed?"},
+      {"turn": 4, "speaker": "AI", "text": "It varies. Many organizations welcome even a few hours per month."}
+    ]
+  },
+  {
+    "conversation_id": 34,
+    "scenario": "Public speaking",
+    "source": "sample",
+    "turns": [
+      {"turn": 1, "speaker": "User", "text": "I'm terrified of public speaking."},
+      {"turn": 2, "speaker": "AI", "text": "That's very common! Practice makes perfect. Start by presenting to small friendly groups."},
+      {"turn": 3, "speaker": "User", "text": "What if I forget what to say?"},
+      {"turn": 4, "speaker": "AI", "text": "Have key points written down. Pausing to collect your thoughts is perfectly acceptable."}
+    ]
+  },
+  {
+    "conversation_id": 35,
+    "scenario": "Gardening basics",
+    "source": "sample",
+    "turns": [
+      {"turn": 1, "speaker": "User", "text": "I want to start a vegetable garden."},
+      {"turn": 2, "speaker": "AI", "text": "Great! Start small with easy crops like tomatoes, lettuce, and herbs."},
+      {"turn": 3, "speaker": "User", "text": "I don't have much space."},
+      {"turn": 4, "speaker": "AI", "text": "Container gardening works great for small spaces. Many vegetables grow well in pots."}
+    ]
+  },
+  {
+    "conversation_id": 36,
+    "scenario": "Music learning",
+    "source": "sample",
+    "turns": [
+      {"turn": 1, "speaker": "User", "text": "I want to learn guitar but I'm a complete beginner."},
+      {"turn": 2, "speaker": "AI", "text": "Start with basic chords (C, G, D, Em) and practice chord transitions daily."},
+      {"turn": 3, "speaker": "User", "text": "How long until I can play songs?"},
+      {"turn": 4, "speaker": "AI", "text": "With daily practice, you can play simple songs in 2-3 months."}
+    ]
+  },
+  {
+    "conversation_id": 37,
+    "scenario": "Digital privacy",
+    "source": "sample",
+    "turns": [
+      {"turn": 1, "speaker": "User", "text": "How can I protect my privacy online?"},
+      {"turn": 2, "speaker": "AI", "text": "Use strong unique passwords, enable two-factor authentication, and be careful what you share."},
+      {"turn": 3, "speaker": "User", "text": "Should I use a VPN?"},
+      {"turn": 4, "speaker": "AI", "text": "VPNs add security, especially on public WiFi. Choose a reputable provider."}
+    ]
+  },
+  {
+    "conversation_id": 38,
+    "scenario": "Reading habits",
+    "source": "sample",
+    "turns": [
+      {"turn": 1, "speaker": "User", "text": "I want to read more but never find time."},
+      {"turn": 2, "speaker": "AI", "text": "Try reading 10 minutes before bed or listening to audiobooks during commutes."},
+      {"turn": 3, "speaker": "User", "text": "How do I choose good books?"},
+      {"turn": 4, "speaker": "AI", "text": "Start with topics you're passionate about. Check reviews and try different genres."}
+    ]
+  },
+  {
+    "conversation_id": 39,
+    "scenario": "Stress management",
+    "source": "sample",
+    "turns": [
+      {"turn": 1, "speaker": "User", "text": "I'm constantly stressed and overwhelmed."},
+      {"turn": 2, "speaker": "AI", "text": "Identify your stress triggers and practice stress-reduction techniques like deep breathing."},
+      {"turn": 3, "speaker": "User", "text": "I don't have time for stress management."},
+      {"turn": 4, "speaker": "AI", "text": "Even 5 minutes of mindful breathing helps. Not managing stress leads to burnout."}
+    ]
+  },
+  {
+    "conversation_id": 40,
+    "scenario": "Fashion advice",
+    "source": "sample",
+    "turns": [
+      {"turn": 1, "speaker": "User", "text": "I want to improve my style but don't know where to start."},
+      {"turn": 2, "speaker": "AI", "text": "Start with basics that fit well. Quality over quantity matters."},
+      {"turn": 3, "speaker": "User", "text": "What colors should I wear?"},
+      {"turn": 4, "speaker": "AI", "text": "Neutral colors (black, white, navy, gray) are versatile. Add pops of color based on what flatters you."}
+    ]
+  },
+  {
+    "conversation_id": 41,
+    "scenario": "Car maintenance",
+    "source": "sample",
+    "turns": [
+      {"turn": 1, "speaker": "User", "text": "What basic car maintenance should I know?"},
+      {"turn": 2, "speaker": "AI", "text": "Check oil regularly, maintain tire pressure, and follow the maintenance schedule in your manual."},
+      {"turn": 3, "speaker": "User", "text": "How often should I change oil?"},
+      {"turn": 4, "speaker": "AI", "text": "Every 5,000-7,500 miles for most modern cars, but check your manual for specific guidance."}
+    ]
+  },
+  {
+    "conversation_id": 42,
+    "scenario": "Negotiation skills",
+    "source": "sample",
+    "turns": [
+      {"turn": 1, "speaker": "User", "text": "I'm bad at negotiating. How can I improve?"},
+      {"turn": 2, "speaker": "AI", "text": "Do your research, know your worth, and practice your pitch. Stay confident but flexible."},
+      {"turn": 3, "speaker": "User", "text": "What if they say no?"},
+      {"turn": 4, "speaker": "AI", "text": "Ask what would make it a yes. Be prepared to compromise or walk away if needed."}
+    ]
+  },
+  {
+    "conversation_id": 43,
+    "scenario": "Home repair",
+    "source": "sample",
+    "turns": [
+      {"turn": 1, "speaker": "User", "text": "My sink is leaking. Can I fix it myself?"},
+      {"turn": 2, "speaker": "AI", "text": "Often yes! Check if it's the faucet or pipes. Tighten connections or replace washers."},
+      {"turn": 3, "speaker": "User", "text": "When should I call a plumber?"},
+      {"turn": 4, "speaker": "AI", "text": "If the leak persists after basic fixes, or if you're dealing with major pipe issues."}
+    ]
+  },
+  {
+    "conversation_id": 44,
+    "scenario": "Memory improvement",
+    "source": "sample",
+    "turns": [
+      {"turn": 1, "speaker": "User", "text": "I keep forgetting things. How can I improve my memory?"},
+      {"turn": 2, "speaker": "AI", "text": "Use mnemonics, stay organized with lists, and practice active recall."},
+      {"turn": 3, "speaker": "User", "text": "Does diet affect memory?"},
+      {"turn": 4, "speaker": "AI", "text": "Yes! Omega-3s, antioxidants, and staying hydrated support brain health."}
+    ]
+  },
+  {
+    "conversation_id": 45,
+    "scenario": "Email etiquette",
+    "source": "sample",
+    "turns": [
+      {"turn": 1, "speaker": "User", "text": "How do I write professional emails?"},
+      {"turn": 2, "speaker": "AI", "text": "Use clear subject lines, greet appropriately, be concise, and proofread before sending."},
+      {"turn": 3, "speaker": "User", "text": "How quickly should I respond?"},
+      {"turn": 4, "speaker": "AI", "text": "Within 24 hours for business emails. If you need more time, acknowledge receipt."}
+    ]
+  },
+  {
+    "conversation_id": 46,
+    "scenario": "Investment basics",
+    "source": "sample",
+    "turns": [
+      {"turn": 1, "speaker": "User", "text": "I want to start investing but know nothing about it."},
+      {"turn": 2, "speaker": "AI", "text": "Start by learning basics: stocks, bonds, index funds. Consider low-cost index funds for beginners."},
+      {"turn": 3, "speaker": "User", "text": "How much should I invest?"},
+      {"turn": 4, "speaker": "AI", "text": "Only invest what you can afford to lose. Start small and increase as you learn."}
+    ]
+  },
+  {
+    "conversation_id": 47,
+    "scenario": "Posture improvement",
+    "source": "sample",
+    "turns": [
+      {"turn": 1, "speaker": "User", "text": "I have back pain from sitting all day."},
+      {"turn": 2, "speaker": "AI", "text": "Check your ergonomics: screen at eye level, feet flat, back supported."},
+      {"turn": 3, "speaker": "User", "text": "Any exercises that help?"},
+      {"turn": 4, "speaker": "AI", "text": "Try shoulder rolls, cat-cow stretches, and take standing breaks every hour."}
+    ]
+  },
+  {
+    "conversation_id": 48,
+    "scenario": "Social media balance",
+    "source": "sample",
+    "turns": [
+      {"turn": 1, "speaker": "User", "text": "I spend too much time on social media."},
+      {"turn": 2, "speaker": "AI", "text": "Set time limits, turn off notifications, and designate phone-free times."},
+      {"turn": 3, "speaker": "User", "text": "I feel FOMO when I'm not online."},
+      {"turn": 4, "speaker": "AI", "text": "Remember social media shows highlights, not reality. Focus on your own goals and well-being."}
+    ]
+  },
+  {
+    "conversation_id": 49,
+    "scenario": "First aid basics",
+    "source": "sample",
+    "turns": [
+      {"turn": 1, "speaker": "User", "text": "What first aid skills should everyone know?"},
+      {"turn": 2, "speaker": "AI", "text": "CPR, how to stop bleeding, treating burns, and recognizing signs of stroke."},
+      {"turn": 3, "speaker": "User", "text": "Should I take a course?"},
+      {"turn": 4, "speaker": "AI", "text": "Absolutely! Red Cross and similar organizations offer excellent hands-on training."}
+    ]
+  },
+  {
+    "conversation_id": 50,
+    "scenario": "Gift giving",
+    "source": "sample",
+    "turns": [
+      {"turn": 1, "speaker": "User", "text": "I never know what gifts to give people."},
+      {"turn": 2, "speaker": "AI", "text": "Think about their hobbies and interests. Experiences can be better than physical items."},
+      {"turn": 3, "speaker": "User", "text": "What if I don't know them well?"},
+      {"turn": 4, "speaker": "AI", "text": "Safe options include quality food items, books, or gift cards to their favorite stores."}
+    ]
+  },
+  {
+    "conversation_id": 51,
+    "scenario": "Moving tips",
+    "source": "sample",
+    "turns": [
+      {"turn": 1, "speaker": "User", "text": "I'm moving next month. Any tips to make it easier?"},
+      {"turn": 2, "speaker": "AI", "text": "Start early, label boxes by room, and declutter before packing. Keep essentials separate."},
+      {"turn": 3, "speaker": "User", "text": "Should I hire movers?"},
+      {"turn": 4, "speaker": "AI", "text": "Depends on budget and amount of stuff. Movers save time and effort for larger moves."}
+    ]
+  },
+  {
+    "conversation_id": 52,
+    "scenario": "Assertiveness training",
+    "source": "sample",
+    "turns": [
+      {"turn": 1, "speaker": "User", "text": "I have trouble saying no to people."},
+      {"turn": 2, "speaker": "AI", "text": "Practice saying no politely but firmly. You don't need to explain or apologize excessively."},
+      {"turn": 3, "speaker": "User", "text": "I feel guilty when I say no."},
+      {"turn": 4, "speaker": "AI", "text": "Setting boundaries is healthy. Saying no to others sometimes means saying yes to yourself."}
+    ]
+  }
+]

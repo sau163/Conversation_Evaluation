@@ -1,0 +1,88 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+.conda/
+ahoum/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Git
+.git/
+.gitignore
+.gitattributes
+
+# Logs
+*.log
+logs/
+*.log.*
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Documentation (keep only essential)
+*.md
+!README.md
+!ARCHITECTURE.md
+
+# Raw data (only include processed data)
+data/raw/
+data/training/raw_conversations.json
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.bak
+
+# Docker
+Dockerfile.old
+docker-compose.override.yml
+
+# Results (will be mounted as volume)
+# data/results/
+
+# Large model files (if any)
+*.bin
+*.pt
+*.pth
+!data/models/evaluator.pkl
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# OS
+Thumbs.db

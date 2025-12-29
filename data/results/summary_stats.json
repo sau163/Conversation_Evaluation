@@ -1,0 +1,2670 @@
+{
+  "total_conversations": 52,
+  "total_turns": 208,
+  "total_facet_scores": 6240,
+  "avg_turns_per_conversation": 4.0,
+  "avg_scores_per_turn": 30.0,
+  "unique_facets_evaluated": 379,
+  "facet_statistics": {
+    "Depression: Feelings of sadness and hopelessness": {
+      "mean": 2.578,
+      "std": 0.329,
+      "min": 2.08,
+      "max": 3.33,
+      "count": 11
+    },
+    "Discontentment": {
+      "mean": 2.55,
+      "std": 0.276,
+      "min": 1.93,
+      "max": 3.33,
+      "count": 28
+    },
+    "Depression (DEP)": {
+      "mean": 2.584,
+      "std": 0.381,
+      "min": 2.08,
+      "max": 3.33,
+      "count": 8
+    },
+    "Happiness": {
+      "mean": 2.999,
+      "std": 0.012,
+      "min": 2.98,
+      "max": 3.01,
+      "count": 8
+    },
+    "Blissfulness": {
+      "mean": 2.602,
+      "std": 0.257,
+      "min": 2.08,
+      "max": 3.33,
+      "count": 22
+    },
+    "Joyfulness": {
+      "mean": 2.624,
+      "std": 0.293,
+      "min": 2.08,
+      "max": 3.33,
+      "count": 15
+    },
+    "General Mood and Attitude": {
+      "mean": 2.642,
+      "std": 0.241,
+      "min": 2.28,
+      "max": 3.33,
+      "count": 19
+    },
+    "Compassion Fatigue": {
+      "mean": 2.522,
+      "std": 0.252,
+      "min": 1.98,
+      "max": 3.33,
+      "count": 33
+    },
+    "Depression Symptoms": {
+      "mean": 2.595,
+      "std": 0.328,
+      "min": 2.08,
+      "max": 3.33,
+      "count": 11
+    },
+    "Burnout Symptoms": {
+      "mean": 2.556,
+      "std": 0.287,
+      "min": 1.93,
+      "max": 3.33,
+      "count": 22
+    },
+    "Negative Affect Frequency": {
+      "mean": 2.684,
+      "std": 0.342,
+      "min": 2.33,
+      "max": 3.33,
+      "count": 5
+    },
+    "Well-being component: Engagement": {
+      "mean": 3.032,
+      "std": 0.134,
+      "min": 2.94,
+      "max": 3.37,
+      "count": 8
+    },
+    "Religious coping – Negative": {
+      "mean": 2.991,
+      "std": 0.055,
+      "min": 2.79,
+      "max": 3.07,
+      "count": 24
+    },
+    "Stress Recovery Ability": {
+      "mean": 2.53,
+      "std": 0.261,
+      "min": 1.98,
+      "max": 3.33,
+      "count": 32
+    },
+    "Contentment Levels": {
+      "mean": 2.561,
+      "std": 0.278,
+      "min": 2.08,
+      "max": 3.33,
+      "count": 19
+    },
+    "Warmheartedness": {
+      "mean": 2.996,
+      "std": 0.053,
+      "min": 2.79,
+      "max": 3.06,
+      "count": 21
+    },
+    "Intrinsic Motivation": {
+      "mean": 2.666,
+      "std": 0.486,
+      "min": 1.5,
+      "max": 3.74,
+      "count": 23
+    },
+    "Inversion comfort level": {
+      "mean": 3.008,
+      "std": 0.022,
+      "min": 2.97,
+      "max": 3.07,
+      "count": 23
+    },
+    "Managing emotions": {
+      "mean": 2.564,
+      "std": 0.27,
+      "min": 2.08,
+      "max": 3.33,
+      "count": 22
+    },
+    "Withdrawnness": {
+      "mean": 2.998,
+      "std": 0.025,
+      "min": 2.95,
+      "max": 3.07,
+      "count": 13
+    },
+    "Irritability": {
+      "mean": 2.996,
+      "std": 0.049,
+      "min": 2.79,
+      "max": 3.07,
+      "count": 27
+    },
+    "Comfort with Vulnerability": {
+      "mean": 3.004,
+      "std": 0.036,
+      "min": 2.86,
+      "max": 3.07,
+      "count": 31
+    },
+    "Enthusiasm": {
+      "mean": 3.015,
+      "std": 0.034,
+      "min": 2.98,
+      "max": 3.08,
+      "count": 10
+    },
+    "Depth of Emotional Connections": {
+      "mean": 2.487,
+      "std": 0.276,
+      "min": 1.98,
+      "max": 3.33,
+      "count": 26
+    },
+    "Presence of Spiritual Pain": {
+      "mean": 3.004,
+      "std": 0.043,
+      "min": 2.95,
+      "max": 3.13,
+      "count": 15
+    },
+    "Creative resilience": {
+      "mean": 2.993,
+      "std": 0.037,
+      "min": 2.86,
+      "max": 3.06,
+      "count": 43
+    },
+    "Use of Nature as a Stress Reliever": {
+      "mean": 2.581,
+      "std": 0.275,
+      "min": 2.24,
+      "max": 3.33,
+      "count": 15
+    },
+    "Boredom Susceptibility": {
+      "mean": 3.001,
+      "std": 0.028,
+      "min": 2.89,
+      "max": 3.07,
+      "count": 40
+    },
+    "Hostility": {
+      "mean": 2.999,
+      "std": 0.024,
+      "min": 2.94,
+      "max": 3.05,
+      "count": 18
+    },
+    "Impulsivity": {
+      "mean": 3.03,
+      "std": 0.126,
+      "min": 2.88,
+      "max": 3.37,
+      "count": 11
+    },
+    "Affection": {
+      "mean": 2.499,
+      "std": 0.273,
+      "min": 2.08,
+      "max": 2.98,
+      "count": 7
+    },
+    "Emotionalism": {
+      "mean": 2.563,
+      "std": 0.232,
+      "min": 2.08,
+      "max": 2.98,
+      "count": 9
+    },
+    "Social-cognition variable: Cognitive Empathy": {
+      "mean": 2.596,
+      "std": 0.194,
+      "min": 2.28,
+      "max": 2.98,
+      "count": 9
+    },
+    "Fearfulness: Fear of physical dangers": {
+      "mean": 2.616,
+      "std": 0.193,
+      "min": 2.27,
+      "max": 2.98,
+      "count": 22
+    },
+    "Emotional-intelligence measure: Impulsiveness": {
+      "mean": 2.533,
+      "std": 0.214,
+      "min": 2.19,
+      "max": 2.89,
+      "count": 12
+    },
+    "Type of Support Preferred (Emotional vs. Practical)": {
+      "mean": 2.422,
+      "std": 0.255,
+      "min": 1.98,
+      "max": 2.67,
+      "count": 5
+    },
+    "Emotional Boundaries": {
+      "mean": 2.447,
+      "std": 0.206,
+      "min": 1.98,
+      "max": 2.76,
+      "count": 16
+    },
+    "Psychological construct: Self-Compassion total": {
+      "mean": 2.556,
+      "std": 0.262,
+      "min": 2.08,
+      "max": 2.98,
+      "count": 7
+    },
+    "Outspokenness": {
+      "mean": 3.009,
+      "std": 0.038,
+      "min": 2.93,
+      "max": 3.07,
+      "count": 14
+    },
+    "Trust in others": {
+      "mean": 2.498,
+      "std": 0.169,
+      "min": 2.19,
+      "max": 2.98,
+      "count": 23
+    },
+    "Patience: Resistance to anger": {
+      "mean": 2.507,
+      "std": 0.174,
+      "min": 2.19,
+      "max": 2.77,
+      "count": 29
+    },
+    "Attachment avoidance score": {
+      "mean": 2.984,
+      "std": 0.052,
+      "min": 2.79,
+      "max": 3.07,
+      "count": 25
+    },
+    "Compassion": {
+      "mean": 2.55,
+      "std": 0.327,
+      "min": 2.08,
+      "max": 2.98,
+      "count": 4
+    },
+    "Psychological construct: Hope scale": {
+      "mean": 2.529,
+      "std": 0.324,
+      "min": 1.89,
+      "max": 2.97,
+      "count": 14
+    },
+    "Ego Dissolution Frequency": {
+      "mean": 2.994,
+      "std": 0.016,
+      "min": 2.96,
+      "max": 3.02,
+      "count": 24
+    },
+    "SelfEsteem": {
+      "mean": 3.004,
+      "std": 0.017,
+      "min": 2.98,
+      "max": 3.04,
+      "count": 7
+    },
+    "Conformity": {
+      "mean": 3.0,
+      "std": 0.007,
+      "min": 2.99,
+      "max": 3.01,
+      "count": 4
+    },
+    "Individuality": {
+      "mean": 2.989,
+      "std": 0.044,
+      "min": 2.89,
+      "max": 3.04,
+      "count": 7
+    },
+    "Psychoticism": {
+      "mean": 3.004,
+      "std": 0.042,
+      "min": 2.91,
+      "max": 3.07,
+      "count": 10
+    },
+    "Data-sharing consent level": {
+      "mean": 3.009,
+      "std": 0.033,
+      "min": 2.93,
+      "max": 3.07,
+      "count": 17
+    },
+    "Martyrdom": {
+      "mean": 3.005,
+      "std": 0.034,
+      "min": 2.97,
+      "max": 3.06,
+      "count": 4
+    },
+    "Understanding Mathematical Concepts": {
+      "mean": 2.553,
+      "std": 0.233,
+      "min": 2.1,
+      "max": 2.94,
+      "count": 41
+    },
+    "Originality": {
+      "mean": 3.0,
+      "std": 0.007,
+      "min": 2.99,
+      "max": 3.01,
+      "count": 4
+    },
+    "High-spiritedness": {
+      "mean": 3.006,
+      "std": 0.026,
+      "min": 2.95,
+      "max": 3.07,
+      "count": 21
+    },
+    "Psychological construct: Identity Diffusion level": {
+      "mean": 2.742,
+      "std": 0.232,
+      "min": 2.3,
+      "max": 2.97,
+      "count": 9
+    },
+    "Self Perspective": {
+      "mean": 2.985,
+      "std": 0.033,
+      "min": 2.89,
+      "max": 3.04,
+      "count": 26
+    },
+    "Value orientation: Universalism": {
+      "mean": 2.994,
+      "std": 0.023,
+      "min": 2.93,
+      "max": 3.01,
+      "count": 11
+    },
+    "Alignment with societal roles": {
+      "mean": 3.001,
+      "std": 0.029,
+      "min": 2.93,
+      "max": 3.05,
+      "count": 18
+    },
+    "Discreteness": {
+      "mean": 3.002,
+      "std": 0.007,
+      "min": 2.99,
+      "max": 3.01,
+      "count": 6
+    },
+    "Desperation": {
+      "mean": 2.994,
+      "std": 0.058,
+      "min": 2.79,
+      "max": 3.08,
+      "count": 28
+    },
+    "Perceiving": {
+      "mean": 3.002,
+      "std": 0.007,
+      "min": 2.99,
+      "max": 3.01,
+      "count": 5
+    },
+    "Impracticalness": {
+      "mean": 2.992,
+      "std": 0.019,
+      "min": 2.96,
+      "max": 3.01,
+      "count": 4
+    },
+    "Patriotism": {
+      "mean": 3.0,
+      "std": 0.006,
+      "min": 2.99,
+      "max": 3.01,
+      "count": 5
+    },
+    "SelfDirectedness": {
+      "mean": 3.002,
+      "std": 0.004,
+      "min": 3.0,
+      "max": 3.01,
+      "count": 4
+    },
+    "Frankness": {
+      "mean": 2.993,
+      "std": 0.008,
+      "min": 2.98,
+      "max": 3.0,
+      "count": 9
+    },
+    "Equitableness": {
+      "mean": 3.006,
+      "std": 0.019,
+      "min": 2.97,
+      "max": 3.05,
+      "count": 18
+    },
+    "Kabbalah sephira balance: Tiferet": {
+      "mean": 2.988,
+      "std": 0.019,
+      "min": 2.96,
+      "max": 3.01,
+      "count": 5
+    },
+    "Submissiveness": {
+      "mean": 3.007,
+      "std": 0.026,
+      "min": 2.97,
+      "max": 3.07,
+      "count": 15
+    },
+    "Cultural Identity": {
+      "mean": 3.005,
+      "std": 0.013,
+      "min": 3.0,
+      "max": 3.04,
+      "count": 8
+    },
+    "Bahá'í spiritual metric: Ridván festival participation": {
+      "mean": 2.965,
+      "std": 0.041,
+      "min": 2.89,
+      "max": 3.02,
+      "count": 11
+    },
+    "Mysteriousness": {
+      "mean": 2.998,
+      "std": 0.009,
+      "min": 2.98,
+      "max": 3.01,
+      "count": 9
+    },
+    "Multiculturalism": {
+      "mean": 2.978,
+      "std": 0.057,
+      "min": 2.86,
+      "max": 3.04,
+      "count": 9
+    },
+    "Hatefulness": {
+      "mean": 2.516,
+      "std": 0.464,
+      "min": 1.22,
+      "max": 3.16,
+      "count": 37
+    },
+    "Assertiveness and control in relationships": {
+      "mean": 2.989,
+      "std": 0.03,
+      "min": 2.93,
+      "max": 3.06,
+      "count": 23
+    },
+    "Physical-violence exposure": {
+      "mean": 3.003,
+      "std": 0.037,
+      "min": 2.91,
+      "max": 3.08,
+      "count": 16
+    },
+    "Conscientiousness Facets": {
+      "mean": 2.955,
+      "std": 0.015,
+      "min": 2.94,
+      "max": 2.97,
+      "count": 2
+    },
+    "Hypomania (Ma)": {
+      "mean": 2.986,
+      "std": 0.039,
+      "min": 2.91,
+      "max": 3.02,
+      "count": 5
+    },
+    "Psychological construct: Acculturative Stress score": {
+      "mean": 2.432,
+      "std": 0.216,
+      "min": 2.08,
+      "max": 2.77,
+      "count": 9
+    },
+    "Chronic pain presence": {
+      "mean": 3.001,
+      "std": 0.045,
+      "min": 2.95,
+      "max": 3.13,
+      "count": 14
+    },
+    "Unassertiveness": {
+      "mean": 3.001,
+      "std": 0.046,
+      "min": 2.94,
+      "max": 3.13,
+      "count": 12
+    },
+    "Compulsive activities": {
+      "mean": 2.998,
+      "std": 0.034,
+      "min": 2.89,
+      "max": 3.07,
+      "count": 30
+    },
+    "Psychological construct: Psychological Safety climate": {
+      "mean": 2.333,
+      "std": 0.302,
+      "min": 1.94,
+      "max": 2.97,
+      "count": 9
+    },
+    "Dance rehearsal hours/week": {
+      "mean": 3.003,
+      "std": 0.011,
+      "min": 2.97,
+      "max": 3.03,
+      "count": 41
+    },
+    "Control over situations": {
+      "mean": 3.001,
+      "std": 0.032,
+      "min": 2.86,
+      "max": 3.07,
+      "count": 47
+    },
+    "Risktaking": {
+      "mean": 3.001,
+      "std": 0.027,
+      "min": 2.93,
+      "max": 3.08,
+      "count": 55
+    },
+    "Dance-cardio sessions": {
+      "mean": 3.004,
+      "std": 0.024,
+      "min": 2.95,
+      "max": 3.08,
+      "count": 33
+    },
+    "Self-Efficacy": {
+      "mean": 3.003,
+      "std": 0.041,
+      "min": 2.93,
+      "max": 3.08,
+      "count": 17
+    },
+    "Courageousness": {
+      "mean": 3.006,
+      "std": 0.051,
+      "min": 2.79,
+      "max": 3.08,
+      "count": 31
+    },
+    "Troubleshooting technical issues": {
+      "mean": 2.996,
+      "std": 0.027,
+      "min": 2.89,
+      "max": 3.05,
+      "count": 36
+    },
+    "Encouraging participation": {
+      "mean": 3.0,
+      "std": 0.062,
+      "min": 2.83,
+      "max": 3.2,
+      "count": 37
+    },
+    "Sacred text engagement: Zohar (Kabbalah) study hours": {
+      "mean": 2.999,
+      "std": 0.044,
+      "min": 2.89,
+      "max": 3.08,
+      "count": 26
+    },
+    "Social Desirability Bias": {
+      "mean": 2.998,
+      "std": 0.1,
+      "min": 2.68,
+      "max": 3.3,
+      "count": 25
+    },
+    "Attitude toward learning": {
+      "mean": 2.996,
+      "std": 0.027,
+      "min": 2.93,
+      "max": 3.08,
+      "count": 33
+    },
+    "Social-cognition variable: Mentalizing network activation": {
+      "mean": 2.984,
+      "std": 0.044,
+      "min": 2.9,
+      "max": 3.09,
+      "count": 21
+    },
+    "Patient care orientation": {
+      "mean": 3.002,
+      "std": 0.021,
+      "min": 2.96,
+      "max": 3.04,
+      "count": 15
+    },
+    "Synthesis of information": {
+      "mean": 3.008,
+      "std": 0.014,
+      "min": 2.99,
+      "max": 3.05,
+      "count": 14
+    },
+    "Hesitation": {
+      "mean": 3.012,
+      "std": 0.03,
+      "min": 2.95,
+      "max": 3.07,
+      "count": 17
+    },
+    "Psychological construct: Perfectionistic Strivings": {
+      "mean": 2.368,
+      "std": 0.233,
+      "min": 2.05,
+      "max": 2.75,
+      "count": 15
+    },
+    "Choir participation years": {
+      "mean": 3.0,
+      "std": 0.032,
+      "min": 2.95,
+      "max": 3.08,
+      "count": 32
+    },
+    "Sacred text engagement: Quran surahs memorized": {
+      "mean": 3.013,
+      "std": 0.047,
+      "min": 2.93,
+      "max": 3.12,
+      "count": 19
+    },
+    "Safety compliance": {
+      "mean": 2.418,
+      "std": 0.49,
+      "min": 1.63,
+      "max": 3.05,
+      "count": 13
+    },
+    "Suspicion": {
+      "mean": 3.007,
+      "std": 0.029,
+      "min": 2.98,
+      "max": 3.07,
+      "count": 8
+    },
+    "Creative risk-taking tendency": {
+      "mean": 3.011,
+      "std": 0.084,
+      "min": 2.88,
+      "max": 3.3,
+      "count": 21
+    },
+    "Polygenic risk: cardiovascular disease": {
+      "mean": 3.017,
+      "std": 0.025,
+      "min": 2.98,
+      "max": 3.08,
+      "count": 19
+    },
+    "Passive-Aggressive": {
+      "mean": 2.406,
+      "std": 0.593,
+      "min": 1.22,
+      "max": 2.99,
+      "count": 10
+    },
+    "Harmfulness": {
+      "mean": 2.442,
+      "std": 0.481,
+      "min": 1.63,
+      "max": 3.15,
+      "count": 10
+    },
+    "Rebelliousness": {
+      "mean": 3.004,
+      "std": 0.029,
+      "min": 2.95,
+      "max": 3.07,
+      "count": 17
+    },
+    "Initiative": {
+      "mean": 3.001,
+      "std": 0.037,
+      "min": 2.93,
+      "max": 3.08,
+      "count": 10
+    },
+    "Immaturity": {
+      "mean": 3.003,
+      "std": 0.026,
+      "min": 2.94,
+      "max": 3.05,
+      "count": 19
+    },
+    "Decision-Making Confidence": {
+      "mean": 2.985,
+      "std": 0.046,
+      "min": 2.87,
+      "max": 3.05,
+      "count": 13
+    },
+    "Overprotectiveness": {
+      "mean": 3.015,
+      "std": 0.022,
+      "min": 2.98,
+      "max": 3.05,
+      "count": 8
+    },
+    "Dishonesty": {
+      "mean": 3.007,
+      "std": 0.05,
+      "min": 2.94,
+      "max": 3.13,
+      "count": 14
+    },
+    "Home-security-system presence": {
+      "mean": 3.009,
+      "std": 0.024,
+      "min": 2.98,
+      "max": 3.07,
+      "count": 21
+    },
+    "Slothfulness": {
+      "mean": 2.994,
+      "std": 0.039,
+      "min": 2.86,
+      "max": 3.06,
+      "count": 19
+    },
+    "Impudence": {
+      "mean": 3.002,
+      "std": 0.034,
+      "min": 2.94,
+      "max": 3.05,
+      "count": 13
+    },
+    "Clumsiness": {
+      "mean": 3.001,
+      "std": 0.02,
+      "min": 2.96,
+      "max": 3.04,
+      "count": 11
+    },
+    "Practice frequency: Mantra meditation": {
+      "mean": 3.0,
+      "std": 0.028,
+      "min": 2.86,
+      "max": 3.08,
+      "count": 62
+    },
+    "Sleep Apnea": {
+      "mean": 3.015,
+      "std": 0.035,
+      "min": 2.96,
+      "max": 3.11,
+      "count": 15
+    },
+    "Sleep-disorder diagnosis": {
+      "mean": 3.016,
+      "std": 0.036,
+      "min": 2.96,
+      "max": 3.11,
+      "count": 13
+    },
+    "Practice frequency: Walking meditation": {
+      "mean": 3.001,
+      "std": 0.029,
+      "min": 2.86,
+      "max": 3.08,
+      "count": 56
+    },
+    "Psychological construct: Excuse-Making tendency": {
+      "mean": 2.456,
+      "std": 0.222,
+      "min": 2.16,
+      "max": 2.9,
+      "count": 8
+    },
+    "Activator: Turning thoughts into action": {
+      "mean": 3.009,
+      "std": 0.044,
+      "min": 2.92,
+      "max": 3.08,
+      "count": 15
+    },
+    "Satya Adherence": {
+      "mean": 2.998,
+      "std": 0.04,
+      "min": 2.86,
+      "max": 3.08,
+      "count": 22
+    },
+    "Precision of Movements": {
+      "mean": 2.995,
+      "std": 0.017,
+      "min": 2.94,
+      "max": 3.02,
+      "count": 19
+    },
+    "Types of Mindfulness Techniques Used": {
+      "mean": 2.425,
+      "std": 0.173,
+      "min": 2.16,
+      "max": 2.77,
+      "count": 11
+    },
+    "Learning through movement": {
+      "mean": 2.995,
+      "std": 0.03,
+      "min": 2.86,
+      "max": 3.07,
+      "count": 37
+    },
+    "Mindfulness facet: Observing": {
+      "mean": 2.995,
+      "std": 0.039,
+      "min": 2.86,
+      "max": 3.08,
+      "count": 19
+    },
+    "Controlling Reactions": {
+      "mean": 2.99,
+      "std": 0.033,
+      "min": 2.94,
+      "max": 3.04,
+      "count": 5
+    },
+    "Caffeine sensitivity gene": {
+      "mean": 3.017,
+      "std": 0.024,
+      "min": 2.99,
+      "max": 3.08,
+      "count": 9
+    },
+    "Self-improvement": {
+      "mean": 3.002,
+      "std": 0.032,
+      "min": 2.89,
+      "max": 3.08,
+      "count": 37
+    },
+    "Buddhist practice: Eightfold Path – Right Intention level": {
+      "mean": 2.995,
+      "std": 0.032,
+      "min": 2.86,
+      "max": 3.04,
+      "count": 29
+    },
+    "Understanding mechanical concepts": {
+      "mean": 2.493,
+      "std": 0.245,
+      "min": 1.95,
+      "max": 2.88,
+      "count": 34
+    },
+    "Psychomotor Ability Subcomponents": {
+      "mean": 3.009,
+      "std": 0.024,
+      "min": 2.99,
+      "max": 3.08,
+      "count": 11
+    },
+    "Soft-skill training hours": {
+      "mean": 3.002,
+      "std": 0.022,
+      "min": 2.89,
+      "max": 3.07,
+      "count": 55
+    },
+    "Inefficiency": {
+      "mean": 3.0,
+      "std": 0.026,
+      "min": 2.93,
+      "max": 3.08,
+      "count": 40
+    },
+    "Commute time/day": {
+      "mean": 2.998,
+      "std": 0.022,
+      "min": 2.89,
+      "max": 3.03,
+      "count": 39
+    },
+    "Training-cycle length": {
+      "mean": 2.999,
+      "std": 0.021,
+      "min": 2.89,
+      "max": 3.03,
+      "count": 48
+    },
+    "Hardworking": {
+      "mean": 3.005,
+      "std": 0.02,
+      "min": 2.96,
+      "max": 3.08,
+      "count": 37
+    },
+    "Peer-collaboration hours": {
+      "mean": 2.994,
+      "std": 0.061,
+      "min": 2.88,
+      "max": 3.3,
+      "count": 50
+    },
+    "Work Styles": {
+      "mean": 3.002,
+      "std": 0.015,
+      "min": 2.97,
+      "max": 3.04,
+      "count": 27
+    },
+    "Eating Habits (Home-Cooked vs. Eating Out)": {
+      "mean": 2.994,
+      "std": 0.039,
+      "min": 2.88,
+      "max": 3.07,
+      "count": 27
+    },
+    "Time outdoors/day (h)": {
+      "mean": 3.001,
+      "std": 0.013,
+      "min": 2.97,
+      "max": 3.03,
+      "count": 24
+    },
+    "Sleep-environment temperature": {
+      "mean": 3.019,
+      "std": 0.034,
+      "min": 2.96,
+      "max": 3.11,
+      "count": 16
+    },
+    "Hindu spiritual metric: Yoga discipline hours / week": {
+      "mean": 3.001,
+      "std": 0.021,
+      "min": 2.96,
+      "max": 3.08,
+      "count": 37
+    },
+    "Organized lifestyle": {
+      "mean": 3.002,
+      "std": 0.031,
+      "min": 2.86,
+      "max": 3.08,
+      "count": 52
+    },
+    "Contribution to Group Goals": {
+      "mean": 2.767,
+      "std": 0.395,
+      "min": 1.54,
+      "max": 3.74,
+      "count": 30
+    },
+    "Energy-healing practice: Reiki sessions / year": {
+      "mean": 3.0,
+      "std": 0.034,
+      "min": 2.86,
+      "max": 3.08,
+      "count": 34
+    },
+    "Network basics": {
+      "mean": 3.006,
+      "std": 0.025,
+      "min": 2.93,
+      "max": 3.08,
+      "count": 41
+    },
+    "Digital-nomad months": {
+      "mean": 3.003,
+      "std": 0.018,
+      "min": 2.96,
+      "max": 3.07,
+      "count": 42
+    },
+    "Motivational Drivers": {
+      "mean": 2.763,
+      "std": 0.443,
+      "min": 1.54,
+      "max": 3.74,
+      "count": 25
+    },
+    "Breakfast-skipping frequency": {
+      "mean": 3.002,
+      "std": 0.025,
+      "min": 2.89,
+      "max": 3.08,
+      "count": 40
+    },
+    "Meeting Deadlines": {
+      "mean": 2.998,
+      "std": 0.024,
+      "min": 2.89,
+      "max": 3.06,
+      "count": 44
+    },
+    "Decision-making speed": {
+      "mean": 2.989,
+      "std": 0.031,
+      "min": 2.93,
+      "max": 3.05,
+      "count": 34
+    },
+    "Computer Skills": {
+      "mean": 3.001,
+      "std": 0.02,
+      "min": 2.96,
+      "max": 3.07,
+      "count": 31
+    },
+    "Numeric Filing Skills": {
+      "mean": 2.999,
+      "std": 0.025,
+      "min": 2.93,
+      "max": 3.08,
+      "count": 33
+    },
+    "Alphabetical filing skills": {
+      "mean": 3.001,
+      "std": 0.02,
+      "min": 2.97,
+      "max": 3.08,
+      "count": 33
+    },
+    "Skill-endorsements count": {
+      "mean": 3.005,
+      "std": 0.025,
+      "min": 2.97,
+      "max": 3.08,
+      "count": 14
+    },
+    "Information Retention": {
+      "mean": 3.0,
+      "std": 0.018,
+      "min": 2.94,
+      "max": 3.05,
+      "count": 26
+    },
+    "Volunteer Work": {
+      "mean": 3.002,
+      "std": 0.019,
+      "min": 2.98,
+      "max": 3.08,
+      "count": 25
+    },
+    "Cognitive measure: Working Memory Index": {
+      "mean": 2.523,
+      "std": 0.196,
+      "min": 2.18,
+      "max": 2.95,
+      "count": 15
+    },
+    "Achievement Motivation": {
+      "mean": 2.726,
+      "std": 0.518,
+      "min": 1.54,
+      "max": 3.74,
+      "count": 14
+    },
+    "Feedback-giving frequency": {
+      "mean": 2.997,
+      "std": 0.011,
+      "min": 2.97,
+      "max": 3.01,
+      "count": 13
+    },
+    "Delegation skills": {
+      "mean": 2.462,
+      "std": 0.206,
+      "min": 1.79,
+      "max": 3.11,
+      "count": 40
+    },
+    "Seeking approval": {
+      "mean": 3.003,
+      "std": 0.035,
+      "min": 2.93,
+      "max": 3.08,
+      "count": 16
+    },
+    "Delegation Ability": {
+      "mean": 2.386,
+      "std": 0.268,
+      "min": 1.76,
+      "max": 2.87,
+      "count": 22
+    },
+    "Perseverance": {
+      "mean": 3.003,
+      "std": 0.059,
+      "min": 2.92,
+      "max": 3.2,
+      "count": 18
+    },
+    "Big Five facet Openness – Artistic Interests": {
+      "mean": 2.995,
+      "std": 0.034,
+      "min": 2.91,
+      "max": 3.05,
+      "count": 30
+    },
+    "Leadership Potential": {
+      "mean": 2.453,
+      "std": 0.238,
+      "min": 1.76,
+      "max": 2.87,
+      "count": 19
+    },
+    "Leadership Styles": {
+      "mean": 2.438,
+      "std": 0.239,
+      "min": 1.76,
+      "max": 2.87,
+      "count": 28
+    },
+    "Relationship Building Themes": {
+      "mean": 2.989,
+      "std": 0.102,
+      "min": 2.68,
+      "max": 3.3,
+      "count": 34
+    },
+    "Leadership Styles and Behaviors": {
+      "mean": 3.025,
+      "std": 0.05,
+      "min": 2.98,
+      "max": 3.17,
+      "count": 13
+    },
+    "Transactional Leadership": {
+      "mean": 3.005,
+      "std": 0.071,
+      "min": 2.88,
+      "max": 3.17,
+      "count": 12
+    },
+    "Adaptability and Flexibility": {
+      "mean": 2.994,
+      "std": 0.03,
+      "min": 2.89,
+      "max": 3.05,
+      "count": 28
+    },
+    "Ethical leadership rating": {
+      "mean": 2.586,
+      "std": 0.155,
+      "min": 2.4,
+      "max": 2.87,
+      "count": 5
+    },
+    "Anatomy knowledge": {
+      "mean": 2.994,
+      "std": 0.02,
+      "min": 2.94,
+      "max": 3.03,
+      "count": 18
+    },
+    "Economic reasoning": {
+      "mean": 2.455,
+      "std": 0.285,
+      "min": 1.94,
+      "max": 2.93,
+      "count": 31
+    },
+    "Peer-to-peer lending usage": {
+      "mean": 3.002,
+      "std": 0.032,
+      "min": 2.93,
+      "max": 3.08,
+      "count": 24
+    },
+    "Gamified-finance-app usage": {
+      "mean": 3.003,
+      "std": 0.029,
+      "min": 2.93,
+      "max": 3.08,
+      "count": 30
+    },
+    "Kink-interest diversity": {
+      "mean": 2.995,
+      "std": 0.029,
+      "min": 2.89,
+      "max": 3.08,
+      "count": 40
+    },
+    "Dignity": {
+      "mean": 2.769,
+      "std": 0.266,
+      "min": 2.26,
+      "max": 3.08,
+      "count": 14
+    },
+    "Self-effacement": {
+      "mean": 2.992,
+      "std": 0.029,
+      "min": 2.89,
+      "max": 3.02,
+      "count": 22
+    },
+    "Collaboration": {
+      "mean": 2.99,
+      "std": 0.031,
+      "min": 2.9,
+      "max": 3.06,
+      "count": 24
+    },
+    "Naivety": {
+      "mean": 2.995,
+      "std": 0.014,
+      "min": 2.96,
+      "max": 3.01,
+      "count": 13
+    },
+    "Ethical practices": {
+      "mean": 2.704,
+      "std": 0.308,
+      "min": 2.17,
+      "max": 3.16,
+      "count": 13
+    },
+    "Tendency Toward Compromise or Confrontation": {
+      "mean": 2.998,
+      "std": 0.031,
+      "min": 2.97,
+      "max": 3.05,
+      "count": 4
+    },
+    "Cooperation": {
+      "mean": 2.984,
+      "std": 0.036,
+      "min": 2.9,
+      "max": 3.08,
+      "count": 21
+    },
+    "Travel-companions diversity": {
+      "mean": 2.992,
+      "std": 0.028,
+      "min": 2.86,
+      "max": 3.04,
+      "count": 33
+    },
+    "Esteem Needs": {
+      "mean": 3.0,
+      "std": 0.031,
+      "min": 2.96,
+      "max": 3.08,
+      "count": 10
+    },
+    "Childhood Experiences": {
+      "mean": 2.987,
+      "std": 0.032,
+      "min": 2.89,
+      "max": 3.02,
+      "count": 15
+    },
+    "Ethnocentrism": {
+      "mean": 2.975,
+      "std": 0.049,
+      "min": 2.89,
+      "max": 3.01,
+      "count": 4
+    },
+    "Avoiding": {
+      "mean": 2.999,
+      "std": 0.013,
+      "min": 2.98,
+      "max": 3.02,
+      "count": 12
+    },
+    "Reliance on context": {
+      "mean": 2.973,
+      "std": 0.051,
+      "min": 2.86,
+      "max": 3.0,
+      "count": 6
+    },
+    "Common-sense": {
+      "mean": 2.993,
+      "std": 0.014,
+      "min": 2.96,
+      "max": 3.01,
+      "count": 10
+    },
+    "Brevity": {
+      "mean": 2.99,
+      "std": 0.007,
+      "min": 2.98,
+      "max": 3.0,
+      "count": 4
+    },
+    "Sustainable-transport usage": {
+      "mean": 3.005,
+      "std": 0.018,
+      "min": 2.97,
+      "max": 3.07,
+      "count": 28
+    },
+    "Evaluating Solutions": {
+      "mean": 2.986,
+      "std": 0.044,
+      "min": 2.89,
+      "max": 3.05,
+      "count": 10
+    },
+    "Flawlessness": {
+      "mean": 3.001,
+      "std": 0.02,
+      "min": 2.95,
+      "max": 3.02,
+      "count": 9
+    },
+    "Doggedness": {
+      "mean": 2.993,
+      "std": 0.013,
+      "min": 2.97,
+      "max": 3.02,
+      "count": 10
+    },
+    "Quirkiness": {
+      "mean": 2.995,
+      "std": 0.015,
+      "min": 2.97,
+      "max": 3.01,
+      "count": 4
+    },
+    "Divided Attention Ability": {
+      "mean": 2.608,
+      "std": 0.242,
+      "min": 2.28,
+      "max": 2.96,
+      "count": 10
+    },
+    "Preference for Home-Cooked vs Restaurant Meals": {
+      "mean": 2.987,
+      "std": 0.04,
+      "min": 2.86,
+      "max": 3.02,
+      "count": 25
+    },
+    "Public-transport km/week": {
+      "mean": 3.006,
+      "std": 0.019,
+      "min": 2.97,
+      "max": 3.07,
+      "count": 27
+    },
+    "Adaptability and Flexibility Subcomponents": {
+      "mean": 2.998,
+      "std": 0.029,
+      "min": 2.89,
+      "max": 3.05,
+      "count": 19
+    },
+    "Eco-tourism trips": {
+      "mean": 2.998,
+      "std": 0.034,
+      "min": 2.89,
+      "max": 3.08,
+      "count": 35
+    },
+    "Additional Common Parameters and Their End Points": {
+      "mean": 2.996,
+      "std": 0.014,
+      "min": 2.97,
+      "max": 3.01,
+      "count": 5
+    },
+    "Open-source contributions": {
+      "mean": 3.003,
+      "std": 0.032,
+      "min": 2.89,
+      "max": 3.08,
+      "count": 34
+    },
+    "Independence": {
+      "mean": 3.007,
+      "std": 0.005,
+      "min": 3.0,
+      "max": 3.01,
+      "count": 3
+    },
+    "Immune-response age": {
+      "mean": 2.981,
+      "std": 0.073,
+      "min": 2.79,
+      "max": 3.08,
+      "count": 9
+    },
+    "Music-lessons years": {
+      "mean": 2.997,
+      "std": 0.022,
+      "min": 2.94,
+      "max": 3.07,
+      "count": 23
+    },
+    "Cooking and Culinary Arts": {
+      "mean": 2.989,
+      "std": 0.036,
+      "min": 2.86,
+      "max": 3.03,
+      "count": 25
+    },
+    "Arts and Humanities": {
+      "mean": 2.986,
+      "std": 0.019,
+      "min": 2.94,
+      "max": 3.0,
+      "count": 8
+    },
+    "Casual lifestyle": {
+      "mean": 2.991,
+      "std": 0.032,
+      "min": 2.86,
+      "max": 3.04,
+      "count": 39
+    },
+    "Museum visits/year": {
+      "mean": 2.997,
+      "std": 0.015,
+      "min": 2.94,
+      "max": 3.02,
+      "count": 24
+    },
+    "Adventure-Seeking Behavior": {
+      "mean": 2.989,
+      "std": 0.037,
+      "min": 2.94,
+      "max": 3.08,
+      "count": 17
+    },
+    "Data Analysis": {
+      "mean": 2.995,
+      "std": 0.021,
+      "min": 2.93,
+      "max": 3.02,
+      "count": 13
+    },
+    "Openness": {
+      "mean": 3.002,
+      "std": 0.025,
+      "min": 2.94,
+      "max": 3.05,
+      "count": 12
+    },
+    "Estimating Calculations": {
+      "mean": 2.995,
+      "std": 0.017,
+      "min": 2.94,
+      "max": 3.01,
+      "count": 22
+    },
+    "Statistical Reasoning": {
+      "mean": 2.472,
+      "std": 0.223,
+      "min": 2.09,
+      "max": 2.96,
+      "count": 19
+    },
+    "Use of Mathematical Formulas": {
+      "mean": 2.993,
+      "std": 0.029,
+      "min": 2.93,
+      "max": 3.07,
+      "count": 25
+    },
+    "Cloud-backup frequency": {
+      "mean": 3.002,
+      "std": 0.017,
+      "min": 2.97,
+      "max": 3.05,
+      "count": 13
+    },
+    "Comparing alphanumeric data": {
+      "mean": 3.007,
+      "std": 0.029,
+      "min": 2.98,
+      "max": 3.07,
+      "count": 6
+    },
+    "Material properties knowledge": {
+      "mean": 2.997,
+      "std": 0.021,
+      "min": 2.93,
+      "max": 3.05,
+      "count": 25
+    },
+    "Storytelling proficiency": {
+      "mean": 2.991,
+      "std": 0.033,
+      "min": 2.89,
+      "max": 3.05,
+      "count": 37
+    },
+    "Social Interaction Skills": {
+      "mean": 2.981,
+      "std": 0.033,
+      "min": 2.93,
+      "max": 3.05,
+      "count": 17
+    },
+    "Learning Style": {
+      "mean": 2.994,
+      "std": 0.026,
+      "min": 2.93,
+      "max": 3.07,
+      "count": 28
+    },
+    "Non-Verbal Communication Skills": {
+      "mean": 2.482,
+      "std": 0.287,
+      "min": 1.95,
+      "max": 2.96,
+      "count": 23
+    },
+    "Pure Challenge": {
+      "mean": 3.008,
+      "std": 0.041,
+      "min": 2.89,
+      "max": 3.06,
+      "count": 14
+    },
+    "Dauntlessness": {
+      "mean": 3.008,
+      "std": 0.033,
+      "min": 2.95,
+      "max": 3.07,
+      "count": 9
+    },
+    "Selfcontrol": {
+      "mean": 2.997,
+      "std": 0.008,
+      "min": 2.98,
+      "max": 3.01,
+      "count": 9
+    },
+    "Intellect": {
+      "mean": 2.994,
+      "std": 0.008,
+      "min": 2.98,
+      "max": 3.0,
+      "count": 5
+    },
+    "Inattentiveness": {
+      "mean": 2.991,
+      "std": 0.028,
+      "min": 2.89,
+      "max": 3.03,
+      "count": 20
+    },
+    "Vivacity": {
+      "mean": 3.004,
+      "std": 0.027,
+      "min": 2.97,
+      "max": 3.07,
+      "count": 8
+    },
+    "Input": {
+      "mean": 3.002,
+      "std": 0.007,
+      "min": 2.99,
+      "max": 3.01,
+      "count": 6
+    },
+    "Classiness": {
+      "mean": 2.991,
+      "std": 0.021,
+      "min": 2.94,
+      "max": 3.01,
+      "count": 11
+    },
+    "Ardency": {
+      "mean": 2.993,
+      "std": 0.009,
+      "min": 2.98,
+      "max": 3.0,
+      "count": 3
+    },
+    "Aloofness": {
+      "mean": 3.005,
+      "std": 0.025,
+      "min": 2.98,
+      "max": 3.07,
+      "count": 11
+    },
+    "Concreteness": {
+      "mean": 3.001,
+      "std": 0.006,
+      "min": 2.99,
+      "max": 3.01,
+      "count": 8
+    },
+    "Abasement": {
+      "mean": 3.0,
+      "std": 0.0,
+      "min": 3.0,
+      "max": 3.0,
+      "count": 2
+    },
+    "Mental Arithmetic Speed": {
+      "mean": 2.996,
+      "std": 0.026,
+      "min": 2.89,
+      "max": 3.07,
+      "count": 32
+    },
+    "Decency": {
+      "mean": 2.992,
+      "std": 0.02,
+      "min": 2.94,
+      "max": 3.01,
+      "count": 10
+    },
+    "Disagreeableness": {
+      "mean": 2.981,
+      "std": 0.037,
+      "min": 2.91,
+      "max": 3.04,
+      "count": 8
+    },
+    "Cunningness": {
+      "mean": 2.994,
+      "std": 0.029,
+      "min": 2.95,
+      "max": 3.05,
+      "count": 8
+    },
+    "Bravery": {
+      "mean": 2.99,
+      "std": 0.064,
+      "min": 2.79,
+      "max": 3.06,
+      "count": 12
+    },
+    "Peacefulness": {
+      "mean": 3.007,
+      "std": 0.028,
+      "min": 2.98,
+      "max": 3.07,
+      "count": 7
+    },
+    "Need for social interaction": {
+      "mean": 2.993,
+      "std": 0.042,
+      "min": 2.93,
+      "max": 3.07,
+      "count": 13
+    },
+    "Critical reasoning": {
+      "mean": 2.394,
+      "std": 0.257,
+      "min": 1.94,
+      "max": 2.96,
+      "count": 19
+    },
+    "Numerical Reasoning": {
+      "mean": 2.509,
+      "std": 0.2,
+      "min": 2.09,
+      "max": 2.83,
+      "count": 18
+    },
+    "Goal-Directed Behavior": {
+      "mean": 2.973,
+      "std": 0.023,
+      "min": 2.93,
+      "max": 3.0,
+      "count": 11
+    },
+    "Desire to influence others": {
+      "mean": 2.982,
+      "std": 0.055,
+      "min": 2.83,
+      "max": 3.09,
+      "count": 29
+    },
+    "Processed-food frequency": {
+      "mean": 2.988,
+      "std": 0.04,
+      "min": 2.86,
+      "max": 3.02,
+      "count": 23
+    },
+    "Significance: Desire to make an impact": {
+      "mean": 2.804,
+      "std": 0.466,
+      "min": 1.54,
+      "max": 3.74,
+      "count": 17
+    },
+    "Desire for excellence": {
+      "mean": 2.622,
+      "std": 0.621,
+      "min": 1.5,
+      "max": 3.74,
+      "count": 13
+    },
+    "Affiliation Motivation": {
+      "mean": 2.786,
+      "std": 0.373,
+      "min": 2.19,
+      "max": 3.74,
+      "count": 19
+    },
+    "Sportsmanship rating": {
+      "mean": 3.009,
+      "std": 0.034,
+      "min": 2.95,
+      "max": 3.08,
+      "count": 11
+    },
+    "Competition": {
+      "mean": 3.012,
+      "std": 0.042,
+      "min": 2.93,
+      "max": 3.08,
+      "count": 9
+    },
+    "Character strength: Perseverance": {
+      "mean": 3.085,
+      "std": 0.169,
+      "min": 2.93,
+      "max": 3.45,
+      "count": 6
+    },
+    "Dance-style mastery diversity": {
+      "mean": 3.002,
+      "std": 0.026,
+      "min": 2.93,
+      "max": 3.08,
+      "count": 32
+    },
+    "Democratic Leadership": {
+      "mean": 2.487,
+      "std": 0.137,
+      "min": 2.28,
+      "max": 2.87,
+      "count": 14
+    },
+    "Character strength: Social Intelligence": {
+      "mean": 3.054,
+      "std": 0.022,
+      "min": 3.02,
+      "max": 3.09,
+      "count": 5
+    },
+    "Psychological construct: Resilience-Trait score": {
+      "mean": 3.015,
+      "std": 0.035,
+      "min": 2.98,
+      "max": 3.05,
+      "count": 2
+    },
+    "Social Boldness": {
+      "mean": 2.995,
+      "std": 0.037,
+      "min": 2.91,
+      "max": 3.05,
+      "count": 19
+    },
+    "Honesty-humility trait score": {
+      "mean": 3.05,
+      "std": 0.0,
+      "min": 3.05,
+      "max": 3.05,
+      "count": 1
+    },
+    "Social-cognition variable: Faux Pas Recognition accuracy": {
+      "mean": 2.986,
+      "std": 0.099,
+      "min": 2.68,
+      "max": 3.09,
+      "count": 14
+    },
+    "Listening Skills Subcomponents": {
+      "mean": 3.002,
+      "std": 0.067,
+      "min": 2.83,
+      "max": 3.3,
+      "count": 41
+    },
+    "Impartial-mindedness": {
+      "mean": 3.008,
+      "std": 0.029,
+      "min": 2.96,
+      "max": 3.04,
+      "count": 6
+    },
+    "Eye-contact duration": {
+      "mean": 2.997,
+      "std": 0.014,
+      "min": 2.96,
+      "max": 3.02,
+      "count": 19
+    },
+    "Vision-check frequency": {
+      "mean": 2.994,
+      "std": 0.013,
+      "min": 2.97,
+      "max": 3.01,
+      "count": 19
+    },
+    "Robotics-interaction frequency": {
+      "mean": 2.984,
+      "std": 0.04,
+      "min": 2.89,
+      "max": 3.08,
+      "count": 21
+    },
+    "Time Orientation End Points": {
+      "mean": 2.995,
+      "std": 0.024,
+      "min": 2.89,
+      "max": 3.02,
+      "count": 24
+    },
+    "Metabolic Rate (Low or High)": {
+      "mean": 3.007,
+      "std": 0.007,
+      "min": 3.0,
+      "max": 3.02,
+      "count": 7
+    },
+    "Pilgrimage participation count": {
+      "mean": 2.996,
+      "std": 0.049,
+      "min": 2.89,
+      "max": 3.11,
+      "count": 21
+    },
+    "Civility": {
+      "mean": 2.77,
+      "std": 0.23,
+      "min": 2.48,
+      "max": 3.09,
+      "count": 5
+    },
+    "Moral and Ethical Parameters": {
+      "mean": 2.983,
+      "std": 0.082,
+      "min": 2.89,
+      "max": 3.09,
+      "count": 3
+    },
+    "Jewish spiritual metric: Sukkot lulav-shaking days": {
+      "mean": 2.988,
+      "std": 0.018,
+      "min": 2.96,
+      "max": 3.01,
+      "count": 12
+    },
+    "Sikh spiritual metric: Kirtan participation frequency": {
+      "mean": 2.972,
+      "std": 0.045,
+      "min": 2.89,
+      "max": 3.02,
+      "count": 11
+    },
+    "Macronutrient ratio: carbs": {
+      "mean": 2.99,
+      "std": 0.034,
+      "min": 2.89,
+      "max": 3.02,
+      "count": 13
+    },
+    "Spelling Accuracy": {
+      "mean": 2.701,
+      "std": 0.381,
+      "min": 1.53,
+      "max": 3.14,
+      "count": 18
+    },
+    "Macronutrient ratio: fat": {
+      "mean": 3.006,
+      "std": 0.025,
+      "min": 2.96,
+      "max": 3.08,
+      "count": 14
+    },
+    "Wake-time consistency": {
+      "mean": 2.998,
+      "std": 0.023,
+      "min": 2.89,
+      "max": 3.03,
+      "count": 34
+    },
+    "Decision-making decisiveness": {
+      "mean": 2.991,
+      "std": 0.034,
+      "min": 2.93,
+      "max": 3.05,
+      "count": 14
+    },
+    "Discernment practice hours / week": {
+      "mean": 2.995,
+      "std": 0.026,
+      "min": 2.86,
+      "max": 3.03,
+      "count": 40
+    },
+    "Caffeine intake (mg/day)": {
+      "mean": 3.012,
+      "std": 0.021,
+      "min": 2.99,
+      "max": 3.08,
+      "count": 13
+    },
+    "Hindu spiritual metric: Bhagavad-Gita study hours": {
+      "mean": 2.997,
+      "std": 0.019,
+      "min": 2.96,
+      "max": 3.02,
+      "count": 13
+    },
+    "Facets": {
+      "mean": 2.995,
+      "std": 0.009,
+      "min": 2.98,
+      "max": 3.0,
+      "count": 4
+    },
+    "Judging (J)": {
+      "mean": 3.0,
+      "std": 0.007,
+      "min": 2.99,
+      "max": 3.01,
+      "count": 4
+    },
+    "Submission": {
+      "mean": 3.0,
+      "std": 0.0,
+      "min": 3.0,
+      "max": 3.0,
+      "count": 2
+    },
+    "Memory for Sounds": {
+      "mean": 2.638,
+      "std": 0.218,
+      "min": 2.3,
+      "max": 2.96,
+      "count": 16
+    },
+    "Sense-of-coherence score": {
+      "mean": 2.741,
+      "std": 0.243,
+      "min": 2.27,
+      "max": 3.1,
+      "count": 9
+    },
+    "Comprehension of spoken information": {
+      "mean": 2.536,
+      "std": 0.229,
+      "min": 2.23,
+      "max": 2.96,
+      "count": 20
+    },
+    "Auditory Memory Recall": {
+      "mean": 2.535,
+      "std": 0.19,
+      "min": 2.19,
+      "max": 2.95,
+      "count": 17
+    },
+    "Auditory memory": {
+      "mean": 2.563,
+      "std": 0.183,
+      "min": 2.3,
+      "max": 2.95,
+      "count": 18
+    },
+    "Sequential Memory Recall": {
+      "mean": 2.576,
+      "std": 0.174,
+      "min": 2.34,
+      "max": 2.95,
+      "count": 18
+    },
+    "Aura-color perception": {
+      "mean": 3.0,
+      "std": 0.012,
+      "min": 2.98,
+      "max": 3.01,
+      "count": 6
+    },
+    "New-Age spiritual metric: Channeling sessions / year": {
+      "mean": 2.993,
+      "std": 0.019,
+      "min": 2.96,
+      "max": 3.04,
+      "count": 16
+    },
+    "Binding foundations index": {
+      "mean": 2.983,
+      "std": 0.021,
+      "min": 2.96,
+      "max": 3.01,
+      "count": 3
+    },
+    "Subscription count": {
+      "mean": 3.004,
+      "std": 0.033,
+      "min": 2.94,
+      "max": 3.07,
+      "count": 8
+    },
+    "Local-food sourcing %": {
+      "mean": 2.992,
+      "std": 0.043,
+      "min": 2.86,
+      "max": 3.08,
+      "count": 26
+    },
+    "Affinity": {
+      "mean": 3.004,
+      "std": 0.007,
+      "min": 2.99,
+      "max": 3.01,
+      "count": 7
+    },
+    "Blog-subscriber count": {
+      "mean": 3.001,
+      "std": 0.03,
+      "min": 2.94,
+      "max": 3.07,
+      "count": 10
+    },
+    "Health-literacy level": {
+      "mean": 2.999,
+      "std": 0.021,
+      "min": 2.96,
+      "max": 3.03,
+      "count": 7
+    },
+    "Dietary Habits": {
+      "mean": 3.006,
+      "std": 0.052,
+      "min": 2.88,
+      "max": 3.18,
+      "count": 30
+    },
+    "Defense-mechanism tendency: Introjection": {
+      "mean": 3.007,
+      "std": 0.005,
+      "min": 3.0,
+      "max": 3.01,
+      "count": 3
+    },
+    "Sufi practice: Sufi retreat attendance count": {
+      "mean": 2.996,
+      "std": 0.037,
+      "min": 2.86,
+      "max": 3.05,
+      "count": 18
+    },
+    "Religious practice: Quran khatam cycles per year": {
+      "mean": 2.996,
+      "std": 0.035,
+      "min": 2.86,
+      "max": 3.07,
+      "count": 25
+    },
+    "Islamic practice: Seerah study hours": {
+      "mean": 3.002,
+      "std": 0.022,
+      "min": 2.96,
+      "max": 3.07,
+      "count": 19
+    },
+    "Participation in Community Activities": {
+      "mean": 2.993,
+      "std": 0.05,
+      "min": 2.9,
+      "max": 3.11,
+      "count": 22
+    },
+    "Logical Sequence Identification": {
+      "mean": 2.474,
+      "std": 0.195,
+      "min": 2.16,
+      "max": 2.96,
+      "count": 18
+    },
+    "Numerical Reasoning Subcomponents": {
+      "mean": 2.487,
+      "std": 0.191,
+      "min": 2.16,
+      "max": 2.88,
+      "count": 14
+    },
+    "Coarseness": {
+      "mean": 2.985,
+      "std": 0.033,
+      "min": 2.89,
+      "max": 3.01,
+      "count": 11
+    },
+    "Sentence Structure": {
+      "mean": 2.996,
+      "std": 0.012,
+      "min": 2.97,
+      "max": 3.01,
+      "count": 7
+    },
+    "Behavioral Tendencies and Subcomponents": {
+      "mean": 2.999,
+      "std": 0.016,
+      "min": 2.98,
+      "max": 3.03,
+      "count": 9
+    },
+    "Creativity in solutions": {
+      "mean": 2.492,
+      "std": 0.218,
+      "min": 1.94,
+      "max": 2.94,
+      "count": 21
+    },
+    "Collectedness": {
+      "mean": 3.002,
+      "std": 0.007,
+      "min": 3.0,
+      "max": 3.02,
+      "count": 8
+    },
+    "Language use": {
+      "mean": 2.686,
+      "std": 0.238,
+      "min": 2.32,
+      "max": 3.03,
+      "count": 8
+    },
+    "Scripture memorization verses": {
+      "mean": 2.998,
+      "std": 0.026,
+      "min": 2.94,
+      "max": 3.06,
+      "count": 11
+    },
+    "Preferred epistemology": {
+      "mean": 2.998,
+      "std": 0.032,
+      "min": 2.94,
+      "max": 3.07,
+      "count": 10
+    },
+    "Structure": {
+      "mean": 3.0,
+      "std": 0.0,
+      "min": 3.0,
+      "max": 3.0,
+      "count": 3
+    },
+    "Cantankerousness": {
+      "mean": 3.0,
+      "std": 0.0,
+      "min": 3.0,
+      "max": 3.0,
+      "count": 3
+    },
+    "Analogies": {
+      "mean": 2.99,
+      "std": 0.01,
+      "min": 2.98,
+      "max": 3.0,
+      "count": 2
+    },
+    "Passport-stamps count": {
+      "mean": 3.002,
+      "std": 0.004,
+      "min": 3.0,
+      "max": 3.01,
+      "count": 6
+    },
+    "Orderliness": {
+      "mean": 2.992,
+      "std": 0.021,
+      "min": 2.94,
+      "max": 3.02,
+      "count": 9
+    },
+    "Holiness": {
+      "mean": 2.93,
+      "std": 0.07,
+      "min": 2.86,
+      "max": 3.0,
+      "count": 2
+    },
+    "Merriness": {
+      "mean": 3.0,
+      "std": 0.0,
+      "min": 3.0,
+      "max": 3.0,
+      "count": 1
+    },
+    "Ethical standards": {
+      "mean": 2.692,
+      "std": 0.317,
+      "min": 2.25,
+      "max": 3.04,
+      "count": 5
+    },
+    "Disrespect": {
+      "mean": 2.538,
+      "std": 0.213,
+      "min": 2.27,
+      "max": 2.82,
+      "count": 8
+    },
+    "Spiritual virtue: Humility practice index": {
+      "mean": 3.008,
+      "std": 0.042,
+      "min": 2.97,
+      "max": 3.08,
+      "count": 5
+    },
+    "Chivalrousness": {
+      "mean": 3.0,
+      "std": 0.0,
+      "min": 3.0,
+      "max": 3.0,
+      "count": 2
+    },
+    "Snacking Behavior": {
+      "mean": 3.002,
+      "std": 0.051,
+      "min": 2.88,
+      "max": 3.11,
+      "count": 17
+    },
+    "Rapid cognitive processing": {
+      "mean": 2.575,
+      "std": 0.211,
+      "min": 2.12,
+      "max": 2.96,
+      "count": 16
+    },
+    "Ideas generated/day": {
+      "mean": 2.999,
+      "std": 0.032,
+      "min": 2.89,
+      "max": 3.08,
+      "count": 24
+    },
+    "Persistence": {
+      "mean": 2.994,
+      "std": 0.009,
+      "min": 2.98,
+      "max": 3.0,
+      "count": 7
+    },
+    "Regularity of Self-Reflection": {
+      "mean": 2.999,
+      "std": 0.013,
+      "min": 2.98,
+      "max": 3.02,
+      "count": 8
+    },
+    "Connectedness: Belief in interconnections": {
+      "mean": 2.998,
+      "std": 0.025,
+      "min": 2.95,
+      "max": 3.04,
+      "count": 8
+    },
+    "Role of Spirituality in Community Involvement": {
+      "mean": 2.992,
+      "std": 0.057,
+      "min": 2.86,
+      "max": 3.08,
+      "count": 9
+    },
+    "Psychological construct: Social Desirability tendency": {
+      "mean": 2.416,
+      "std": 0.294,
+      "min": 2.17,
+      "max": 2.97,
+      "count": 5
+    },
+    "Psychological construct: Social Conformity tendency": {
+      "mean": 2.486,
+      "std": 0.284,
+      "min": 2.17,
+      "max": 2.97,
+      "count": 5
+    },
+    "Psychological construct: Eye-Contact avoidance score": {
+      "mean": 2.593,
+      "std": 0.251,
+      "min": 2.24,
+      "max": 2.97,
+      "count": 9
+    },
+    "Psychological construct: Need for Achievement level": {
+      "mean": 2.737,
+      "std": 0.082,
+      "min": 2.63,
+      "max": 2.83,
+      "count": 3
+    },
+    "Psychological construct: Consummatory Pleasure scale": {
+      "mean": 2.462,
+      "std": 0.216,
+      "min": 2.11,
+      "max": 2.65,
+      "count": 4
+    },
+    "Intelligence Quotient (IQ)": {
+      "mean": 2.63,
+      "std": 0.0,
+      "min": 2.63,
+      "max": 2.63,
+      "count": 1
+    },
+    "Pet-enrichment activities count": {
+      "mean": 2.991,
+      "std": 0.044,
+      "min": 2.86,
+      "max": 3.08,
+      "count": 21
+    },
+    "Acidity": {
+      "mean": 3.016,
+      "std": 0.029,
+      "min": 2.98,
+      "max": 3.08,
+      "count": 7
+    },
+    "Moroseness": {
+      "mean": 2.981,
+      "std": 0.069,
+      "min": 2.79,
+      "max": 3.06,
+      "count": 10
+    },
+    "Conservatism": {
+      "mean": 3.005,
+      "std": 0.005,
+      "min": 3.0,
+      "max": 3.01,
+      "count": 4
+    },
+    "Drug-use history": {
+      "mean": 2.996,
+      "std": 0.012,
+      "min": 2.97,
+      "max": 3.01,
+      "count": 7
+    },
+    "Psychological construct: Cultural Intelligence – Behavioral": {
+      "mean": 2.883,
+      "std": 0.078,
+      "min": 2.78,
+      "max": 2.97,
+      "count": 3
+    },
+    "Hindu spiritual metric: Vrata vows observed / year": {
+      "mean": 2.982,
+      "std": 0.018,
+      "min": 2.96,
+      "max": 3.0,
+      "count": 5
+    },
+    "Spatial perception": {
+      "mean": 2.576,
+      "std": 0.23,
+      "min": 2.28,
+      "max": 2.99,
+      "count": 9
+    },
+    "Sensitiveness": {
+      "mean": 2.999,
+      "std": 0.037,
+      "min": 2.94,
+      "max": 3.05,
+      "count": 7
+    },
+    "Talkativeness": {
+      "mean": 3.007,
+      "std": 0.027,
+      "min": 2.97,
+      "max": 3.06,
+      "count": 10
+    },
+    "Liberalism": {
+      "mean": 2.983,
+      "std": 0.031,
+      "min": 2.94,
+      "max": 3.01,
+      "count": 3
+    },
+    "Big-heartedness": {
+      "mean": 2.97,
+      "std": 0.075,
+      "min": 2.79,
+      "max": 3.03,
+      "count": 7
+    },
+    "Astrology: Rising sign is Scorpio": {
+      "mean": 2.993,
+      "std": 0.014,
+      "min": 2.98,
+      "max": 3.01,
+      "count": 6
+    },
+    "Nationality": {
+      "mean": 2.997,
+      "std": 0.005,
+      "min": 2.99,
+      "max": 3.0,
+      "count": 3
+    },
+    "Psychological construct: Operant-Learning rate": {
+      "mean": 2.555,
+      "std": 0.249,
+      "min": 2.1,
+      "max": 2.96,
+      "count": 10
+    },
+    "HEXACO Personality Inventory Facets": {
+      "mean": 2.98,
+      "std": 0.036,
+      "min": 2.93,
+      "max": 3.01,
+      "count": 3
+    },
+    "HEXACO domain: Honesty-Humility": {
+      "mean": 3.022,
+      "std": 0.059,
+      "min": 2.94,
+      "max": 3.13,
+      "count": 9
+    },
+    "Brazenness": {
+      "mean": 3.032,
+      "std": 0.019,
+      "min": 3.0,
+      "max": 3.05,
+      "count": 4
+    },
+    "Innovation and Creativity Components": {
+      "mean": 2.528,
+      "std": 0.287,
+      "min": 2.06,
+      "max": 2.93,
+      "count": 13
+    },
+    "Drollness": {
+      "mean": 3.005,
+      "std": 0.005,
+      "min": 3.0,
+      "max": 3.01,
+      "count": 2
+    },
+    "Self-righteousness": {
+      "mean": 2.752,
+      "std": 0.162,
+      "min": 2.48,
+      "max": 2.98,
+      "count": 5
+    },
+    "Conscientiousness (C)": {
+      "mean": 2.98,
+      "std": 0.02,
+      "min": 2.96,
+      "max": 3.0,
+      "count": 2
+    },
+    "Servility": {
+      "mean": 2.99,
+      "std": 0.03,
+      "min": 2.96,
+      "max": 3.02,
+      "count": 2
+    },
+    "Judging Consequences": {
+      "mean": 3.012,
+      "std": 0.035,
+      "min": 2.97,
+      "max": 3.07,
+      "count": 6
+    },
+    "Attachment style: Secure": {
+      "mean": 3.002,
+      "std": 0.029,
+      "min": 2.94,
+      "max": 3.05,
+      "count": 8
+    },
+    "HonestyHumility": {
+      "mean": 3.033,
+      "std": 0.064,
+      "min": 2.94,
+      "max": 3.13,
+      "count": 6
+    },
+    "Aesthetic Appreciation": {
+      "mean": 2.991,
+      "std": 0.018,
+      "min": 2.94,
+      "max": 3.01,
+      "count": 16
+    },
+    "Graffiti appreciation": {
+      "mean": 2.995,
+      "std": 0.014,
+      "min": 2.97,
+      "max": 3.02,
+      "count": 11
+    },
+    "Aestheticism": {
+      "mean": 2.988,
+      "std": 0.02,
+      "min": 2.94,
+      "max": 3.01,
+      "count": 12
+    },
+    "Cordiality": {
+      "mean": 2.993,
+      "std": 0.008,
+      "min": 2.98,
+      "max": 3.0,
+      "count": 4
+    },
+    "Genuine": {
+      "mean": 2.996,
+      "std": 0.033,
+      "min": 2.93,
+      "max": 3.05,
+      "count": 7
+    },
+    "Effeteness": {
+      "mean": 3.01,
+      "std": 0.0,
+      "min": 3.01,
+      "max": 3.01,
+      "count": 1
+    },
+    "Specialist": {
+      "mean": 2.99,
+      "std": 0.031,
+      "min": 2.89,
+      "max": 3.03,
+      "count": 13
+    },
+    "Sensationalism": {
+      "mean": 3.05,
+      "std": 0.0,
+      "min": 3.05,
+      "max": 3.05,
+      "count": 1
+    },
+    "Hysteria (Hy)": {
+      "mean": 3.05,
+      "std": 0.0,
+      "min": 3.05,
+      "max": 3.05,
+      "count": 1
+    },
+    "Sensitivity": {
+      "mean": 3.01,
+      "std": 0.0,
+      "min": 3.01,
+      "max": 3.01,
+      "count": 1
+    },
+    "Psychological construct: Executive-Function composite": {
+      "mean": 2.562,
+      "std": 0.209,
+      "min": 2.36,
+      "max": 2.9,
+      "count": 4
+    },
+    "Conventional": {
+      "mean": 3.01,
+      "std": 0.0,
+      "min": 3.01,
+      "max": 3.01,
+      "count": 1
+    },
+    "Anticipativeness": {
+      "mean": 3.027,
+      "std": 0.039,
+      "min": 2.99,
+      "max": 3.08,
+      "count": 3
+    }
+  },
+  "evaluation_method": "ML-based (XGBoost)",
+  "retrieval_method": "Semantic search (FAISS)",
+  "satisfies_constraints": {
+    "no_one_shot_prompting": true,
+    "open_weights_models": true,
+    "scales_to_5000_facets": true
+  }
+}

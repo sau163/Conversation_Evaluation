@@ -1,0 +1,386 @@
+facet_id,facet_name,category,description,scale_min,scale_max,scale_type
+178,Activator: Turning thoughts into action,Behavioral,Evaluates behavioral pattern: Activator: Turning thoughts into action,1,5,ordinal
+16,Adventure-Seeking Behavior,Behavioral,Evaluates behavioral pattern: Adventure-Seeking Behavior,1,5,ordinal
+141,Bahá'í spiritual metric: Ridván festival participation,Behavioral,Evaluates behavioral pattern: Bahá'í spiritual metric: Ridván festival participation,1,5,ordinal
+191,Behavioral Tendencies and Subcomponents,Behavioral,Evaluates behavioral pattern: Behavioral Tendencies and Subcomponents,1,5,ordinal
+317,Choir participation years,Behavioral,Evaluates behavioral pattern: Choir participation years,1,5,ordinal
+92,Collaboration,Behavioral,Evaluates behavioral pattern: Collaboration,1,5,ordinal
+223,Controlling Reactions,Behavioral,Evaluates behavioral pattern: Controlling Reactions,1,5,ordinal
+312,Cooperation,Behavioral,Evaluates behavioral pattern: Cooperation,1,5,ordinal
+66,Creative risk-taking tendency,Behavioral,Evaluates behavioral pattern: Creative risk-taking tendency,1,5,ordinal
+57,Decision-making decisiveness,Behavioral,Evaluates behavioral pattern: Decision-making decisiveness,1,5,ordinal
+289,Decision-making speed,Behavioral,Evaluates behavioral pattern: Decision-making speed,1,5,ordinal
+226,Dietary Habits,Behavioral,Evaluates behavioral pattern: Dietary Habits,1,5,ordinal
+362,Eating Habits (Home-Cooked vs. Eating Out),Behavioral,Evaluates behavioral pattern: Eating Habits (Home-Cooked vs. Eating Out),1,5,ordinal
+107,Encouraging participation,Behavioral,Evaluates behavioral pattern: Encouraging participation,1,5,ordinal
+174,Goal-Directed Behavior,Behavioral,Evaluates behavioral pattern: Goal-Directed Behavior,1,5,ordinal
+315,Impulsivity,Behavioral,Evaluates behavioral pattern: Impulsivity,1,5,ordinal
+249,Initiative,Behavioral,Evaluates behavioral pattern: Initiative,1,5,ordinal
+231,Leadership Styles and Behaviors,Behavioral,Evaluates behavioral pattern: Leadership Styles and Behaviors,1,5,ordinal
+137,Need for social interaction,Behavioral,Evaluates behavioral pattern: Need for social interaction,1,5,ordinal
+266,Participation in Community Activities,Behavioral,Evaluates behavioral pattern: Participation in Community Activities,1,5,ordinal
+138,Peer-collaboration hours,Behavioral,Evaluates behavioral pattern: Peer-collaboration hours,1,5,ordinal
+221,Perseverance,Behavioral,Evaluates behavioral pattern: Perseverance,1,5,ordinal
+337,Persistence,Behavioral,Evaluates behavioral pattern: Persistence,1,5,ordinal
+43,Pilgrimage participation count,Behavioral,Evaluates behavioral pattern: Pilgrimage participation count,1,5,ordinal
+271,Robotics-interaction frequency,Behavioral,Evaluates behavioral pattern: Robotics-interaction frequency,1,5,ordinal
+351,Sacred text engagement: Quran surahs memorized,Behavioral,Evaluates behavioral pattern: Sacred text engagement: Quran surahs memorized,1,5,ordinal
+303,Sacred text engagement: Zohar (Kabbalah) study hours,Behavioral,Evaluates behavioral pattern: Sacred text engagement: Zohar (Kabbalah) study hours,1,5,ordinal
+314,Sikh spiritual metric: Kirtan participation frequency,Behavioral,Evaluates behavioral pattern: Sikh spiritual metric: Kirtan participation frequency,1,5,ordinal
+301,Snacking Behavior,Behavioral,Evaluates behavioral pattern: Snacking Behavior,1,5,ordinal
+111,Social Interaction Skills,Behavioral,Evaluates behavioral pattern: Social Interaction Skills,1,5,ordinal
+219,Transactional Leadership,Behavioral,Evaluates behavioral pattern: Transactional Leadership,1,5,ordinal
+136,Well-being component: Engagement,Behavioral,Evaluates behavioral pattern: Well-being component: Engagement,1,5,ordinal
+202,Auditory Memory Recall,Cognitive,Assesses cognitive ability or mental process: Auditory Memory Recall,1,5,ordinal
+95,Auditory memory,Cognitive,Assesses cognitive ability or mental process: Auditory memory,1,5,ordinal
+323,Cognitive measure: Working Memory Index,Cognitive,Assesses cognitive ability or mental process: Cognitive measure: Working Memory Index,1,5,ordinal
+209,Comprehension of spoken information,Cognitive,Assesses cognitive ability or mental process: Comprehension of spoken information,1,5,ordinal
+168,Creativity in solutions,Cognitive,Assesses cognitive ability or mental process: Creativity in solutions,1,5,ordinal
+89,Critical reasoning,Cognitive,Assesses cognitive ability or mental process: Critical reasoning,1,5,ordinal
+193,Divided Attention Ability,Cognitive,Assesses cognitive ability or mental process: Divided Attention Ability,1,5,ordinal
+371,Economic reasoning,Cognitive,Assesses cognitive ability or mental process: Economic reasoning,1,5,ordinal
+49,Innovation and Creativity Components,Cognitive,Assesses cognitive ability or mental process: Innovation and Creativity Components,1,5,ordinal
+284,Intelligence Quotient (IQ),Cognitive,Assesses cognitive ability or mental process: Intelligence Quotient (IQ),1,5,ordinal
+73,Logical Sequence Identification,Cognitive,Assesses cognitive ability or mental process: Logical Sequence Identification,1,5,ordinal
+79,Memory for Sounds,Cognitive,Assesses cognitive ability or mental process: Memory for Sounds,1,5,ordinal
+286,Non-Verbal Communication Skills,Cognitive,Assesses cognitive ability or mental process: Non-Verbal Communication Skills,1,5,ordinal
+340,Numerical Reasoning,Cognitive,Assesses cognitive ability or mental process: Numerical Reasoning,1,5,ordinal
+26,Numerical Reasoning Subcomponents,Cognitive,Assesses cognitive ability or mental process: Numerical Reasoning Subcomponents,1,5,ordinal
+230,Psychological construct: Consummatory Pleasure scale,Cognitive,Assesses cognitive ability or mental process: Psychological construct: Consummatory Pleasure scale,1,5,ordinal
+224,Psychological construct: Cultural Intelligence – Behavioral,Cognitive,Assesses cognitive ability or mental process: Psychological construct: Cultural Intelligence – Behavioral,1,5,ordinal
+290,Psychological construct: Excuse-Making tendency,Cognitive,Assesses cognitive ability or mental process: Psychological construct: Excuse-Making tendency,1,5,ordinal
+185,Psychological construct: Executive-Function composite,Cognitive,Assesses cognitive ability or mental process: Psychological construct: Executive-Function composite,1,5,ordinal
+292,Psychological construct: Eye-Contact avoidance score,Cognitive,Assesses cognitive ability or mental process: Psychological construct: Eye-Contact avoidance score,1,5,ordinal
+169,Psychological construct: Hope scale,Cognitive,Assesses cognitive ability or mental process: Psychological construct: Hope scale,1,5,ordinal
+333,Psychological construct: Identity Diffusion level,Cognitive,Assesses cognitive ability or mental process: Psychological construct: Identity Diffusion level,1,5,ordinal
+129,Psychological construct: Need for Achievement level,Cognitive,Assesses cognitive ability or mental process: Psychological construct: Need for Achievement level,1,5,ordinal
+128,Psychological construct: Operant-Learning rate,Cognitive,Assesses cognitive ability or mental process: Psychological construct: Operant-Learning rate,1,5,ordinal
+338,Psychological construct: Perfectionistic Strivings,Cognitive,Assesses cognitive ability or mental process: Psychological construct: Perfectionistic Strivings,1,5,ordinal
+183,Psychological construct: Psychological Safety climate,Cognitive,Assesses cognitive ability or mental process: Psychological construct: Psychological Safety climate,1,5,ordinal
+281,Psychological construct: Social Conformity tendency,Cognitive,Assesses cognitive ability or mental process: Psychological construct: Social Conformity tendency,1,5,ordinal
+54,Psychological construct: Social Desirability tendency,Cognitive,Assesses cognitive ability or mental process: Psychological construct: Social Desirability tendency,1,5,ordinal
+368,Rapid cognitive processing,Cognitive,Assesses cognitive ability or mental process: Rapid cognitive processing,1,5,ordinal
+211,Sequential Memory Recall,Cognitive,Assesses cognitive ability or mental process: Sequential Memory Recall,1,5,ordinal
+62,Spatial perception,Cognitive,Assesses cognitive ability or mental process: Spatial perception,1,5,ordinal
+13,Statistical Reasoning,Cognitive,Assesses cognitive ability or mental process: Statistical Reasoning,1,5,ordinal
+370,Types of Mindfulness Techniques Used,Cognitive,Assesses cognitive ability or mental process: Types of Mindfulness Techniques Used,1,5,ordinal
+172,Understanding Mathematical Concepts,Cognitive,Assesses cognitive ability or mental process: Understanding Mathematical Concepts,1,5,ordinal
+201,Understanding mechanical concepts,Cognitive,Assesses cognitive ability or mental process: Understanding mechanical concepts,1,5,ordinal
+122,Affection,Emotional,Measures emotional state or expression related to Affection,1,5,ordinal
+210,Blissfulness,Emotional,Measures emotional state or expression related to Blissfulness,1,5,ordinal
+103,Burnout Symptoms,Emotional,Measures emotional state or expression related to Burnout Symptoms,1,5,ordinal
+142,Compassion,Emotional,Measures emotional state or expression related to Compassion,1,5,ordinal
+17,Compassion Fatigue,Emotional,Measures emotional state or expression related to Compassion Fatigue,1,5,ordinal
+116,Contentment Levels,Emotional,Measures emotional state or expression related to Contentment Levels,1,5,ordinal
+171,Depression (DEP),Emotional,Measures emotional state or expression related to Depression (DEP),1,5,ordinal
+61,Depression Symptoms,Emotional,Measures emotional state or expression related to Depression Symptoms,1,5,ordinal
+84,Depression: Feelings of sadness and hopelessness,Emotional,Measures emotional state or expression related to Depression: Feelings of sadness and hopelessness,1,5,ordinal
+175,Depth of Emotional Connections,Emotional,Measures emotional state or expression related to Depth of Emotional Connections,1,5,ordinal
+8,Discontentment,Emotional,Measures emotional state or expression related to Discontentment,1,5,ordinal
+167,Emotional Boundaries,Emotional,Measures emotional state or expression related to Emotional Boundaries,1,5,ordinal
+76,Emotional-intelligence measure: Impulsiveness,Emotional,Measures emotional state or expression related to Emotional-intelligence measure: Impulsiveness,1,5,ordinal
+11,Emotionalism,Emotional,Measures emotional state or expression related to Emotionalism,1,5,ordinal
+260,Fearfulness: Fear of physical dangers,Emotional,Measures emotional state or expression related to Fearfulness: Fear of physical dangers,1,5,ordinal
+146,General Mood and Attitude,Emotional,Measures emotional state or expression related to General Mood and Attitude,1,5,ordinal
+251,Joyfulness,Emotional,Measures emotional state or expression related to Joyfulness,1,5,ordinal
+276,Managing emotions,Emotional,Measures emotional state or expression related to Managing emotions,1,5,ordinal
+48,Negative Affect Frequency,Emotional,Measures emotional state or expression related to Negative Affect Frequency,1,5,ordinal
+377,Patience: Resistance to anger,Emotional,Measures emotional state or expression related to Patience: Resistance to anger,1,5,ordinal
+194,Psychological construct: Acculturative Stress score,Emotional,Measures emotional state or expression related to Psychological construct: Acculturative Stress score,1,5,ordinal
+184,Psychological construct: Self-Compassion total,Emotional,Measures emotional state or expression related to Psychological construct: Self-Compassion total,1,5,ordinal
+240,Social-cognition variable: Cognitive Empathy,Emotional,Measures emotional state or expression related to Social-cognition variable: Cognitive Empathy,1,5,ordinal
+346,Stress Recovery Ability,Emotional,Measures emotional state or expression related to Stress Recovery Ability,1,5,ordinal
+352,Trust in others,Emotional,Measures emotional state or expression related to Trust in others,1,5,ordinal
+375,Type of Support Preferred (Emotional vs. Practical),Emotional,Measures emotional state or expression related to Type of Support Preferred (Emotional vs. Practical),1,5,ordinal
+295,Use of Nature as a Stress Reliever,Emotional,Measures emotional state or expression related to Use of Nature as a Stress Reliever,1,5,ordinal
+247,Chronic pain presence,Health_Biological,Health or biological metric: Chronic pain presence,1,5,ordinal
+82,Health-literacy level,Health_Biological,Health or biological metric: Health-literacy level,1,5,ordinal
+38,Presence of Spiritual Pain,Health_Biological,Health or biological metric: Presence of Spiritual Pain,1,5,ordinal
+327,Sleep Apnea,Health_Biological,Health or biological metric: Sleep Apnea,1,5,ordinal
+90,Sleep-disorder diagnosis,Health_Biological,Health or biological metric: Sleep-disorder diagnosis,1,5,ordinal
+208,Sleep-environment temperature,Health_Biological,Health or biological metric: Sleep-environment temperature,1,5,ordinal
+318,Delegation Ability,Leadership,Assesses leadership quality: Delegation Ability,1,5,ordinal
+275,Delegation skills,Leadership,Assesses leadership quality: Delegation skills,1,5,ordinal
+5,Democratic Leadership,Leadership,Assesses leadership quality: Democratic Leadership,1,5,ordinal
+113,Ethical leadership rating,Leadership,Assesses leadership quality: Ethical leadership rating,1,5,ordinal
+86,Leadership Potential,Leadership,Assesses leadership quality: Leadership Potential,1,5,ordinal
+343,Leadership Styles,Leadership,Assesses leadership quality: Leadership Styles,1,5,ordinal
+163,Language use,Linguistic,Linguistic quality measure: Language use,1,5,ordinal
+58,Sense-of-coherence score,Linguistic,Linguistic quality measure: Sense-of-coherence score,1,5,ordinal
+381,Spelling Accuracy,Linguistic,Linguistic quality measure: Spelling Accuracy,1,5,ordinal
+326,Civility,Moral_Ethical,Evaluates moral or ethical dimension: Civility,1,5,ordinal
+148,Dignity,Moral_Ethical,Evaluates moral or ethical dimension: Dignity,1,5,ordinal
+32,Disrespect,Moral_Ethical,Evaluates moral or ethical dimension: Disrespect,1,5,ordinal
+324,Ethical practices,Moral_Ethical,Evaluates moral or ethical dimension: Ethical practices,1,5,ordinal
+87,Ethical standards,Moral_Ethical,Evaluates moral or ethical dimension: Ethical standards,1,5,ordinal
+59,Justice-mindedness,Moral_Ethical,Evaluates moral or ethical dimension: Justice-mindedness,1,5,ordinal
+180,Moral and Ethical Parameters,Moral_Ethical,Evaluates moral or ethical dimension: Moral and Ethical Parameters,1,5,ordinal
+145,Self-righteousness,Moral_Ethical,Evaluates moral or ethical dimension: Self-righteousness,1,5,ordinal
+50,Achievement Motivation,Motivation,Measures motivational aspect: Achievement Motivation,1,5,ordinal
+35,Affiliation Motivation,Motivation,Measures motivational aspect: Affiliation Motivation,1,5,ordinal
+147,Contribution to Group Goals,Motivation,Measures motivational aspect: Contribution to Group Goals,1,5,ordinal
+118,Desire for excellence,Motivation,Measures motivational aspect: Desire for excellence,1,5,ordinal
+101,Intrinsic Motivation,Motivation,Measures motivational aspect: Intrinsic Motivation,1,5,ordinal
+304,Motivational Drivers,Motivation,Measures motivational aspect: Motivational Drivers,1,5,ordinal
+227,Significance: Desire to make an impact,Motivation,Measures motivational aspect: Significance: Desire to make an impact,1,5,ordinal
+246,Abasement,Other,Evaluates: Abasement,1,5,ordinal
+4,Acidity,Other,Evaluates: Acidity,1,5,ordinal
+242,Adaptability and Flexibility,Other,Evaluates: Adaptability and Flexibility,1,5,ordinal
+215,Adaptability and Flexibility Subcomponents,Other,Evaluates: Adaptability and Flexibility Subcomponents,1,5,ordinal
+358,Additional Common Parameters and Their End Points,Other,Evaluates: Additional Common Parameters and Their End Points,1,5,ordinal
+218,Aesthetic Appreciation,Other,Evaluates: Aesthetic Appreciation,1,5,ordinal
+374,Aestheticism,Other,Evaluates: Aestheticism,1,5,ordinal
+245,Affinity,Other,Evaluates: Affinity,1,5,ordinal
+364,Alignment with societal roles,Other,Evaluates: Alignment with societal roles,1,5,ordinal
+20,Aloofness,Other,Evaluates: Aloofness,1,5,ordinal
+268,Analogies,Other,Evaluates: Analogies,1,5,ordinal
+36,Anatomy knowledge,Other,Evaluates: Anatomy knowledge,1,5,ordinal
+357,Anticipativeness,Other,Evaluates: Anticipativeness,1,5,ordinal
+217,Ardency,Other,Evaluates: Ardency,1,5,ordinal
+139,Arts and Humanities,Other,Evaluates: Arts and Humanities,1,5,ordinal
+154,Astrology: Rising sign is Scorpio,Other,Evaluates: Astrology: Rising sign is Scorpio,1,5,ordinal
+253,Attachment avoidance score,Other,Evaluates: Attachment avoidance score,1,5,ordinal
+283,Attachment style: Secure,Other,Evaluates: Attachment style: Secure,1,5,ordinal
+296,Attitude toward learning,Other,Evaluates: Attitude toward learning,1,5,ordinal
+302,Aura-color perception,Other,Evaluates: Aura-color perception,1,5,ordinal
+359,Avoiding,Other,Evaluates: Avoiding,1,5,ordinal
+30,Big-heartedness,Other,Evaluates: Big-heartedness,1,5,ordinal
+176,Binding foundations index,Other,Evaluates: Binding foundations index,1,5,ordinal
+285,Blog-subscriber count,Other,Evaluates: Blog-subscriber count,1,5,ordinal
+229,Boredom Susceptibility,Other,Evaluates: Boredom Susceptibility,1,5,ordinal
+156,Bravery,Other,Evaluates: Bravery,1,5,ordinal
+255,Brazenness,Other,Evaluates: Brazenness,1,5,ordinal
+313,Breakfast-skipping frequency,Other,Evaluates: Breakfast-skipping frequency,1,5,ordinal
+63,Brevity,Other,Evaluates: Brevity,1,5,ordinal
+355,Caffeine intake (mg/day),Other,Evaluates: Caffeine intake (mg/day),1,5,ordinal
+335,Caffeine sensitivity gene,Other,Evaluates: Caffeine sensitivity gene,1,5,ordinal
+130,Cantankerousness,Other,Evaluates: Cantankerousness,1,5,ordinal
+272,Casual lifestyle,Other,Evaluates: Casual lifestyle,1,5,ordinal
+157,Childhood Experiences,Other,Evaluates: Childhood Experiences,1,5,ordinal
+42,Chivalrousness,Other,Evaluates: Chivalrousness,1,5,ordinal
+328,Classiness,Other,Evaluates: Classiness,1,5,ordinal
+305,Cloud-backup frequency,Other,Evaluates: Cloud-backup frequency,1,5,ordinal
+269,Clumsiness,Other,Evaluates: Clumsiness,1,5,ordinal
+190,Coarseness,Other,Evaluates: Coarseness,1,5,ordinal
+273,Collectedness,Other,Evaluates: Collectedness,1,5,ordinal
+356,Comfort with Vulnerability,Other,Evaluates: Comfort with Vulnerability,1,5,ordinal
+6,Common-sense,Other,Evaluates: Common-sense,1,5,ordinal
+288,Commute time/day,Other,Evaluates: Commute time/day,1,5,ordinal
+29,Comparing alphanumeric data,Other,Evaluates: Comparing alphanumeric data,1,5,ordinal
+72,Competition,Other,Evaluates: Competition,1,5,ordinal
+31,Compulsive activities,Other,Evaluates: Compulsive activities,1,5,ordinal
+196,Concreteness,Other,Evaluates: Concreteness,1,5,ordinal
+372,Conformity,Other,Evaluates: Conformity,1,5,ordinal
+214,Conservatism,Other,Evaluates: Conservatism,1,5,ordinal
+329,Control over situations,Other,Evaluates: Control over situations,1,5,ordinal
+278,Conventional,Other,Evaluates: Conventional,1,5,ordinal
+162,Cooking and Culinary Arts,Other,Evaluates: Cooking and Culinary Arts,1,5,ordinal
+369,Cordiality,Other,Evaluates: Cordiality,1,5,ordinal
+250,Courageousness,Other,Evaluates: Courageousness,1,5,ordinal
+367,Creative resilience,Other,Evaluates: Creative resilience,1,5,ordinal
+100,Cultural Identity,Other,Evaluates: Cultural Identity,1,5,ordinal
+15,Cunningness,Other,Evaluates: Cunningness,1,5,ordinal
+261,Dance rehearsal hours/week,Other,Evaluates: Dance rehearsal hours/week,1,5,ordinal
+52,Dance-cardio sessions,Other,Evaluates: Dance-cardio sessions,1,5,ordinal
+164,Dance-style mastery diversity,Other,Evaluates: Dance-style mastery diversity,1,5,ordinal
+110,Data Analysis,Other,Evaluates: Data Analysis,1,5,ordinal
+158,Data-sharing consent level,Other,Evaluates: Data-sharing consent level,1,5,ordinal
+195,Dauntlessness,Other,Evaluates: Dauntlessness,1,5,ordinal
+384,Decency,Other,Evaluates: Decency,1,5,ordinal
+348,Defense-mechanism tendency: Introjection,Other,Evaluates: Defense-mechanism tendency: Introjection,1,5,ordinal
+34,Desperation,Other,Evaluates: Desperation,1,5,ordinal
+22,Determinedness,Other,Evaluates: Determinedness,1,5,ordinal
+299,Digital-nomad months,Other,Evaluates: Digital-nomad months,1,5,ordinal
+152,Discreteness,Other,Evaluates: Discreteness,1,5,ordinal
+383,Doggedness,Other,Evaluates: Doggedness,1,5,ordinal
+311,Drollness,Other,Evaluates: Drollness,1,5,ordinal
+287,Drug-use history,Other,Evaluates: Drug-use history,1,5,ordinal
+41,Eco-tourism trips,Other,Evaluates: Eco-tourism trips,1,5,ordinal
+331,Effeteness,Other,Evaluates: Effeteness,1,5,ordinal
+177,Ego Dissolution Frequency,Other,Evaluates: Ego Dissolution Frequency,1,5,ordinal
+53,Enthusiasm,Other,Evaluates: Enthusiasm,1,5,ordinal
+257,Equitableness,Other,Evaluates: Equitableness,1,5,ordinal
+200,Esteem Needs,Other,Evaluates: Esteem Needs,1,5,ordinal
+83,Estimating Calculations,Other,Evaluates: Estimating Calculations,1,5,ordinal
+166,Ethnocentrism,Other,Evaluates: Ethnocentrism,1,5,ordinal
+150,Evaluating Solutions,Other,Evaluates: Evaluating Solutions,1,5,ordinal
+179,Exemplariness,Other,Evaluates: Exemplariness,1,5,ordinal
+144,Eye-contact duration,Other,Evaluates: Eye-contact duration,1,5,ordinal
+1,Facets,Other,Evaluates: Facets,1,5,ordinal
+51,Feedback-giving frequency,Other,Evaluates: Feedback-giving frequency,1,5,ordinal
+378,Flawlessness,Other,Evaluates: Flawlessness,1,5,ordinal
+182,Frankness,Other,Evaluates: Frankness,1,5,ordinal
+353,Gamified-finance-app usage,Other,Evaluates: Gamified-finance-app usage,1,5,ordinal
+322,Genialness,Other,Evaluates: Genialness,1,5,ordinal
+21,Genuine,Other,Evaluates: Genuine,1,5,ordinal
+237,Graffiti appreciation,Other,Evaluates: Graffiti appreciation,1,5,ordinal
+115,Happiness,Other,Evaluates: Happiness,1,5,ordinal
+7,Hesitation,Other,Evaluates: Hesitation,1,5,ordinal
+88,High-spiritedness,Other,Evaluates: High-spiritedness,1,5,ordinal
+104,Holiness,Other,Evaluates: Holiness,1,5,ordinal
+360,Home-security-system presence,Other,Evaluates: Home-security-system presence,1,5,ordinal
+132,Hostility,Other,Evaluates: Hostility,1,5,ordinal
+173,Hypomania (Ma),Other,Evaluates: Hypomania (Ma),1,5,ordinal
+197,Hysteria (Hy),Other,Evaluates: Hysteria (Hy),1,5,ordinal
+258,Ideas generated/day,Other,Evaluates: Ideas generated/day,1,5,ordinal
+81,Immaturity,Other,Evaluates: Immaturity,1,5,ordinal
+239,Immune-response age,Other,Evaluates: Immune-response age,1,5,ordinal
+102,Impartial-mindedness,Other,Evaluates: Impartial-mindedness,1,5,ordinal
+108,Impracticalness,Other,Evaluates: Impracticalness,1,5,ordinal
+267,Impudence,Other,Evaluates: Impudence,1,5,ordinal
+55,Inattentiveness,Other,Evaluates: Inattentiveness,1,5,ordinal
+133,Independence,Other,Evaluates: Independence,1,5,ordinal
+282,Individuality,Other,Evaluates: Individuality,1,5,ordinal
+143,Information Retention,Other,Evaluates: Information Retention,1,5,ordinal
+151,Input,Other,Evaluates: Input,1,5,ordinal
+188,Intellect,Other,Evaluates: Intellect,1,5,ordinal
+121,Inversion comfort level,Other,Evaluates: Inversion comfort level,1,5,ordinal
+349,Irritability,Other,Evaluates: Irritability,1,5,ordinal
+126,Judging (J),Other,Evaluates: Judging (J),1,5,ordinal
+243,Judging Consequences,Other,Evaluates: Judging Consequences,1,5,ordinal
+319,Kabbalah sephira balance: Tiferet,Other,Evaluates: Kabbalah sephira balance: Tiferet,1,5,ordinal
+241,Kink-interest diversity,Other,Evaluates: Kink-interest diversity,1,5,ordinal
+306,Learning Style,Other,Evaluates: Learning Style,1,5,ordinal
+334,Learning through movement,Other,Evaluates: Learning through movement,1,5,ordinal
+120,Liberalism,Other,Evaluates: Liberalism,1,5,ordinal
+234,Local-food sourcing %,Other,Evaluates: Local-food sourcing %,1,5,ordinal
+232,Macronutrient ratio: carbs,Other,Evaluates: Macronutrient ratio: carbs,1,5,ordinal
+161,Macronutrient ratio: fat,Other,Evaluates: Macronutrient ratio: fat,1,5,ordinal
+124,Martyrdom,Other,Evaluates: Martyrdom,1,5,ordinal
+131,Material properties knowledge,Other,Evaluates: Material properties knowledge,1,5,ordinal
+376,Mental Arithmetic Speed,Other,Evaluates: Mental Arithmetic Speed,1,5,ordinal
+10,Merriness,Other,Evaluates: Merriness,1,5,ordinal
+225,Metabolic Rate (Low or High),Other,Evaluates: Metabolic Rate (Low or High),1,5,ordinal
+18,Moroseness,Other,Evaluates: Moroseness,1,5,ordinal
+65,Multiculturalism,Other,Evaluates: Multiculturalism,1,5,ordinal
+316,Museum visits/year,Other,Evaluates: Museum visits/year,1,5,ordinal
+204,Music-lessons years,Other,Evaluates: Music-lessons years,1,5,ordinal
+99,Mysteriousness,Other,Evaluates: Mysteriousness,1,5,ordinal
+3,Naivety,Other,Evaluates: Naivety,1,5,ordinal
+310,Nationality,Other,Evaluates: Nationality,1,5,ordinal
+280,Open-source contributions,Other,Evaluates: Open-source contributions,1,5,ordinal
+64,Orderliness,Other,Evaluates: Orderliness,1,5,ordinal
+97,Organized lifestyle,Other,Evaluates: Organized lifestyle,1,5,ordinal
+259,Originality,Other,Evaluates: Originality,1,5,ordinal
+207,Outspokenness,Other,Evaluates: Outspokenness,1,5,ordinal
+9,Overprotectiveness,Other,Evaluates: Overprotectiveness,1,5,ordinal
+233,Passport-stamps count,Other,Evaluates: Passport-stamps count,1,5,ordinal
+235,Patient care orientation,Other,Evaluates: Patient care orientation,1,5,ordinal
+342,Patriotism,Other,Evaluates: Patriotism,1,5,ordinal
+382,Peacefulness,Other,Evaluates: Peacefulness,1,5,ordinal
+291,Peer-to-peer lending usage,Other,Evaluates: Peer-to-peer lending usage,1,5,ordinal
+119,Perceiving,Other,Evaluates: Perceiving,1,5,ordinal
+373,Pet-enrichment activities count,Other,Evaluates: Pet-enrichment activities count,1,5,ordinal
+160,Physical-violence exposure,Other,Evaluates: Physical-violence exposure,1,5,ordinal
+332,Polygenic risk: cardiovascular disease,Other,Evaluates: Polygenic risk: cardiovascular disease,1,5,ordinal
+93,Precision of Movements,Other,Evaluates: Precision of Movements,1,5,ordinal
+238,Preference for Home-Cooked vs Restaurant Meals,Other,Evaluates: Preference for Home-Cooked vs Restaurant Meals,1,5,ordinal
+78,Preferred epistemology,Other,Evaluates: Preferred epistemology,1,5,ordinal
+385,Processed-food frequency,Other,Evaluates: Processed-food frequency,1,5,ordinal
+96,Psychomotor Ability Subcomponents,Other,Evaluates: Psychomotor Ability Subcomponents,1,5,ordinal
+112,Psychoticism,Other,Evaluates: Psychoticism,1,5,ordinal
+263,Public-transport km/week,Other,Evaluates: Public-transport km/week,1,5,ordinal
+25,Pure Challenge,Other,Evaluates: Pure Challenge,1,5,ordinal
+366,Quirkiness,Other,Evaluates: Quirkiness,1,5,ordinal
+186,Rebelliousness,Other,Evaluates: Rebelliousness,1,5,ordinal
+222,Regularity of Self-Reflection,Other,Evaluates: Regularity of Self-Reflection,1,5,ordinal
+274,Reliance on context,Other,Evaluates: Reliance on context,1,5,ordinal
+2,Risktaking,Other,Evaluates: Risktaking,1,5,ordinal
+165,Satya Adherence,Other,Evaluates: Satya Adherence,1,5,ordinal
+277,Scripture memorization verses,Other,Evaluates: Scripture memorization verses,1,5,ordinal
+125,Seeking approval,Other,Evaluates: Seeking approval,1,5,ordinal
+33,Self Perspective,Other,Evaluates: Self Perspective,1,5,ordinal
+379,Self-Efficacy,Other,Evaluates: Self-Efficacy,1,5,ordinal
+206,Self-effacement,Other,Evaluates: Self-effacement,1,5,ordinal
+12,Self-improvement,Other,Evaluates: Self-improvement,1,5,ordinal
+106,SelfDirectedness,Other,Evaluates: SelfDirectedness,1,5,ordinal
+28,SelfEsteem,Other,Evaluates: SelfEsteem,1,5,ordinal
+105,Selfcontrol,Other,Evaluates: Selfcontrol,1,5,ordinal
+309,Sensationalism,Other,Evaluates: Sensationalism,1,5,ordinal
+47,Sensitiveness,Other,Evaluates: Sensitiveness,1,5,ordinal
+192,Sensitivity,Other,Evaluates: Sensitivity,1,5,ordinal
+199,Sentence Structure,Other,Evaluates: Sentence Structure,1,5,ordinal
+344,Servility,Other,Evaluates: Servility,1,5,ordinal
+114,Slothfulness,Other,Evaluates: Slothfulness,1,5,ordinal
+19,Specialist,Other,Evaluates: Specialist,1,5,ordinal
+80,Sportsmanship rating,Other,Evaluates: Sportsmanship rating,1,5,ordinal
+203,Storytelling proficiency,Other,Evaluates: Storytelling proficiency,1,5,ordinal
+40,Structure,Other,Evaluates: Structure,1,5,ordinal
+181,Submission,Other,Evaluates: Submission,1,5,ordinal
+45,Submissiveness,Other,Evaluates: Submissiveness,1,5,ordinal
+60,Subscription count,Other,Evaluates: Subscription count,1,5,ordinal
+252,Suspicion,Other,Evaluates: Suspicion,1,5,ordinal
+74,Sustainable-transport usage,Other,Evaluates: Sustainable-transport usage,1,5,ordinal
+85,Synthesis of information,Other,Evaluates: Synthesis of information,1,5,ordinal
+256,Talkativeness,Other,Evaluates: Talkativeness,1,5,ordinal
+270,Tendency Toward Compromise or Confrontation,Other,Evaluates: Tendency Toward Compromise or Confrontation,1,5,ordinal
+254,Time Orientation End Points,Other,Evaluates: Time Orientation End Points,1,5,ordinal
+330,Time outdoors/day (h),Other,Evaluates: Time outdoors/day (h),1,5,ordinal
+350,Travel-companions diversity,Other,Evaluates: Travel-companions diversity,1,5,ordinal
+347,Troubleshooting technical issues,Other,Evaluates: Troubleshooting technical issues,1,5,ordinal
+189,Use of Mathematical Formulas,Other,Evaluates: Use of Mathematical Formulas,1,5,ordinal
+220,Value orientation: Universalism,Other,Evaluates: Value orientation: Universalism,1,5,ordinal
+159,Vision-check frequency,Other,Evaluates: Vision-check frequency,1,5,ordinal
+321,Vivacity,Other,Evaluates: Vivacity,1,5,ordinal
+339,Wake-time consistency,Other,Evaluates: Wake-time consistency,1,5,ordinal
+205,Warmheartedness,Other,Evaluates: Warmheartedness,1,5,ordinal
+212,Withdrawnness,Other,Evaluates: Withdrawnness,1,5,ordinal
+14,Assertiveness and control in relationships,Personality,Evaluates personality trait: Assertiveness and control in relationships,1,5,ordinal
+127,Big Five facet Openness – Artistic Interests,Personality,Evaluates personality trait: Big Five facet Openness – Artistic Interests,1,5,ordinal
+71,Character strength: Perseverance,Personality,Evaluates personality trait: Character strength: Perseverance,1,5,ordinal
+155,Character strength: Social Intelligence,Personality,Evaluates personality trait: Character strength: Social Intelligence,1,5,ordinal
+294,Conscientiousness (C),Personality,Evaluates personality trait: Conscientiousness (C),1,5,ordinal
+297,Conscientiousness Facets,Personality,Evaluates personality trait: Conscientiousness Facets,1,5,ordinal
+363,Decision-Making Confidence,Personality,Evaluates personality trait: Decision-Making Confidence,1,5,ordinal
+265,Disagreeableness,Personality,Evaluates personality trait: Disagreeableness,1,5,ordinal
+77,Dishonesty,Personality,Evaluates personality trait: Dishonesty,1,5,ordinal
+345,Enneagram Personality Types,Personality,Evaluates personality trait: Enneagram Personality Types,1,5,ordinal
+149,HEXACO Personality Inventory Facets,Personality,Evaluates personality trait: HEXACO Personality Inventory Facets,1,5,ordinal
+361,HEXACO domain: Honesty-Humility,Personality,Evaluates personality trait: HEXACO domain: Honesty-Humility,1,5,ordinal
+298,Honesty-humility trait score,Personality,Evaluates personality trait: Honesty-humility trait score,1,5,ordinal
+23,HonestyHumility,Personality,Evaluates personality trait: HonestyHumility,1,5,ordinal
+117,Neuroticism,Personality,Evaluates personality trait: Neuroticism,1,5,ordinal
+27,Openness,Personality,Evaluates personality trait: Openness,1,5,ordinal
+228,Psychological construct: Resilience-Trait score,Personality,Evaluates personality trait: Psychological construct: Resilience-Trait score,1,5,ordinal
+94,Social Boldness,Personality,Evaluates personality trait: Social Boldness,1,5,ordinal
+135,Spiritual virtue: Humility practice index,Personality,Evaluates personality trait: Spiritual virtue: Humility practice index,1,5,ordinal
+56,Unassertiveness,Personality,Evaluates personality trait: Unassertiveness,1,5,ordinal
+244,Harmfulness,Safety_Toxicity,Detects safety concern or toxic behavior: Harmfulness,1,5,ordinal
+336,Hatefulness,Safety_Toxicity,Detects safety concern or toxic behavior: Hatefulness,1,5,ordinal
+37,Passive-Aggressive,Safety_Toxicity,Detects safety concern or toxic behavior: Passive-Aggressive,1,5,ordinal
+308,Safety compliance,Safety_Toxicity,Detects safety concern or toxic behavior: Safety compliance,1,5,ordinal
+320,Desire to influence others,Social,Measures social skill or interaction quality: Desire to influence others,1,5,ordinal
+91,Listening Skills Subcomponents,Social,Measures social skill or interaction quality: Listening Skills Subcomponents,1,5,ordinal
+24,Relationship Building Themes,Social,Measures social skill or interaction quality: Relationship Building Themes,1,5,ordinal
+264,Social Desirability Bias,Social,Measures social skill or interaction quality: Social Desirability Bias,1,5,ordinal
+293,Social-cognition variable: Faux Pas Recognition accuracy,Social,Measures social skill or interaction quality: Social-cognition variable: Faux Pas Recognition accuracy,1,5,ordinal
+341,Social-cognition variable: Mentalizing network activation,Social,Measures social skill or interaction quality: Social-cognition variable: Mentalizing network activation,1,5,ordinal
+354,Buddhist practice: Eightfold Path – Right Intention level,Spiritual_Religious,Spiritual or religious practice: Buddhist practice: Eightfold Path – Right Intention level,1,5,ordinal
+365,Connectedness: Belief in interconnections,Spiritual_Religious,Spiritual or religious practice: Connectedness: Belief in interconnections,1,5,ordinal
+248,Discernment practice hours / week,Spiritual_Religious,Spiritual or religious practice: Discernment practice hours / week,1,5,ordinal
+153,Energy-healing practice: Reiki sessions / year,Spiritual_Religious,Spiritual or religious practice: Energy-healing practice: Reiki sessions / year,1,5,ordinal
+279,Hindu spiritual metric: Bhagavad-Gita study hours,Spiritual_Religious,Spiritual or religious practice: Hindu spiritual metric: Bhagavad-Gita study hours,1,5,ordinal
+216,Hindu spiritual metric: Vrata vows observed / year,Spiritual_Religious,Spiritual or religious practice: Hindu spiritual metric: Vrata vows observed / year,1,5,ordinal
+213,Hindu spiritual metric: Yoga discipline hours / week,Spiritual_Religious,Spiritual or religious practice: Hindu spiritual metric: Yoga discipline hours / week,1,5,ordinal
+307,Islamic practice: Seerah study hours,Spiritual_Religious,Spiritual or religious practice: Islamic practice: Seerah study hours,1,5,ordinal
+198,Jewish spiritual metric: Sukkot lulav-shaking days,Spiritual_Religious,Spiritual or religious practice: Jewish spiritual metric: Sukkot lulav-shaking days,1,5,ordinal
+44,Mindfulness facet: Observing,Spiritual_Religious,Spiritual or religious practice: Mindfulness facet: Observing,1,5,ordinal
+325,New-Age spiritual metric: Channeling sessions / year,Spiritual_Religious,Spiritual or religious practice: New-Age spiritual metric: Channeling sessions / year,1,5,ordinal
+262,Practice frequency: Mantra meditation,Spiritual_Religious,Spiritual or religious practice: Practice frequency: Mantra meditation,1,5,ordinal
+170,Practice frequency: Walking meditation,Spiritual_Religious,Spiritual or religious practice: Practice frequency: Walking meditation,1,5,ordinal
+300,Religious coping – Negative,Spiritual_Religious,Spiritual or religious practice: Religious coping – Negative,1,5,ordinal
+140,Religious practice: Quran khatam cycles per year,Spiritual_Religious,Spiritual or religious practice: Religious practice: Quran khatam cycles per year,1,5,ordinal
+39,Role of Spirituality in Community Involvement,Spiritual_Religious,Spiritual or religious practice: Role of Spirituality in Community Involvement,1,5,ordinal
+134,Sufi practice: Sufi retreat attendance count,Spiritual_Religious,Spiritual or religious practice: Sufi practice: Sufi retreat attendance count,1,5,ordinal
+69,Alphabetical filing skills,Work_Professional,Work-related competency: Alphabetical filing skills,1,5,ordinal
+380,Computer Skills,Work_Professional,Work-related competency: Computer Skills,1,5,ordinal
+75,Hardworking,Work_Professional,Work-related competency: Hardworking,1,5,ordinal
+67,Inefficiency,Work_Professional,Work-related competency: Inefficiency,1,5,ordinal
+109,Meeting Deadlines,Work_Professional,Work-related competency: Meeting Deadlines,1,5,ordinal
+68,Network basics,Work_Professional,Work-related competency: Network basics,1,5,ordinal
+123,Numeric Filing Skills,Work_Professional,Work-related competency: Numeric Filing Skills,1,5,ordinal
+98,Skill-endorsements count,Work_Professional,Work-related competency: Skill-endorsements count,1,5,ordinal
+236,Soft-skill training hours,Work_Professional,Work-related competency: Soft-skill training hours,1,5,ordinal
+46,Training-cycle length,Work_Professional,Work-related competency: Training-cycle length,1,5,ordinal
+187,Volunteer Work,Work_Professional,Work-related competency: Volunteer Work,1,5,ordinal
+70,Work Styles,Work_Professional,Work-related competency: Work Styles,1,5,ordinal

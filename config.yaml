@@ -1,0 +1,54 @@
+# Model configuration
+model:
+  name: "Qwen/Qwen2-7B-Instruct"  # Can also use "meta-llama/Llama-3-8B-Instruct"
+  max_length: 2048
+  device: "cuda"  # or "cpu"
+  load_in_8bit: true
+  temperature: 0.7
+  
+# Facet configuration
+facets:
+  structured_file: "data/processed/facets_structured.csv"
+  max_facets_per_turn: 30
+  relevance_threshold: 0.3
+  
+# Scoring configuration
+scoring:
+  scale_min: 1
+  scale_max: 5
+  scale_labels:
+    1: "Very Low / Absent"
+    2: "Low"
+    3: "Moderate"
+    4: "High"
+    5: "Very High"
+  confidence_method: "entropy"  # entropy, softmax, or calibrated
+  
+# Conversation processing
+conversation:
+  max_turns: 50
+  context_window: 3  # Number of previous turns to include as context
+  
+# Paths
+paths:
+  raw_data: "data/raw"
+  processed_data: "data/processed"
+  results: "data/results"
+  models: "models"
+  
+# Evaluation
+evaluation:
+  num_sample_conversations: 50
+  batch_size: 4
+  
+# UI Configuration
+ui:
+  title: "Conversation Evaluation System"
+  port: 8501
+  theme: "light"
+  
+# Logging
+logging:
+  level: "INFO"
+  format: "{time:YYYY-MM-DD HH:mm:ss} | {level} | {message}"
+  file: "logs/app.log"
